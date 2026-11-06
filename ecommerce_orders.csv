@@ -1,0 +1,1501 @@
+order_id,customer_id,order_date,product_category,quantity,order_amount_inr,payment_method,delivery_status
+ORD-10000,CUST-1103,2026-05-10,Electronics,1,2069.15,Net Banking,Delivered
+ORD-10001,CUST-1180,2026-04-05,Home & Kitchen,2,2982.58,Net Banking,Delivered
+ORD-10002,CUST-1093,2026-04-25,Fitness,1,2549.91,Cash on Delivery,Delivered
+ORD-10003,CUST-1015,2026-08-31,Fitness,1,4351.76,Credit Card,Delivered
+ORD-10004,CUST-1107,2026-10-19,Home & Kitchen,2,795.4,Net Banking,Delivered
+ORD-10005,CUST-1072,2026-10-09,Electronics,3,2902.97,Credit Card,Delivered
+ORD-10006,CUST-1189,2026-10-26,Home & Kitchen,1,2711.0,Credit Card,Delivered
+ORD-10007,CUST-1021,2026-10-10,Home & Kitchen,2,1622.55,Net Banking,Cancelled
+ORD-10008,CUST-1103,2026-03-10,Home & Kitchen,2,4164.47,UPI,Delivered
+ORD-10009,CUST-1122,2026-05-28,Apparel,1,3838.39,Net Banking,Delivered
+ORD-10010,CUST-1211,2026-01-11,Fitness,1,3744.44,Cash on Delivery,Delivered
+ORD-10011,CUST-1215,2026-09-11,Books,1,4418.1,Debit Card,Delivered
+ORD-10012,CUST-1075,2026-02-07,Books,1,3697.09,Net Banking,Delivered
+ORD-10013,CUST-1203,2026-05-14,Apparel,1,1389.65,Credit Card,Delivered
+ORD-10014,CUST-1088,2026-07-19,Home & Kitchen,1,3616.14,Credit Card,Delivered
+ORD-10015,CUST-1117,2026-01-23,Apparel,1,1746.2,Net Banking,Cancelled
+ORD-10016,CUST-1100,2026-10-30,Apparel,2,1438.22,Debit Card,Delivered
+ORD-10017,CUST-1104,2026-10-29,Electronics,2,643.12,Net Banking,Delivered
+ORD-10018,CUST-1152,2026-08-06,Fitness,4,3796.93,Debit Card,Cancelled
+ORD-10019,CUST-1131,2026-05-21,Books,1,3641.7,Debit Card,Delivered
+ORD-10020,CUST-1150,2026-04-14,Home & Kitchen,2,1402.15,Cash on Delivery,Delivered
+ORD-10021,CUST-1053,2026-07-29,Books,3,3822.08,Credit Card,Delivered
+ORD-10022,CUST-1002,2026-04-21,Books,2,4613.85,Credit Card,Returned
+ORD-10023,CUST-1088,2026-04-14,Fitness,1,807.74,Debit Card,Delivered
+ORD-10024,CUST-1236,2026-06-20,Books,2,1393.39,Credit Card,Delivered
+ORD-10025,CUST-1158,2026-05-13,Books,1,3826.23,UPI,Delivered
+ORD-10026,CUST-1038,2026-10-20,Apparel,1,1590.18,Debit Card,Delivered
+ORD-10027,CUST-1130,2026-05-07,Fitness,2,3235.92,Credit Card,Delivered
+ORD-10028,CUST-1192,2026-04-16,Electronics,2,681.47,UPI,Delivered
+ORD-10029,CUST-1188,2026-04-02,Home & Kitchen,1,2425.35,Cash on Delivery,Cancelled
+ORD-10030,CUST-1021,2026-10-14,Books,3,3773.73,Credit Card,Delivered
+ORD-10031,CUST-1161,2026-02-20,Home & Kitchen,2,3526.62,UPI,Delivered
+ORD-10032,CUST-1204,2026-01-29,Electronics,1,4130.84,Net Banking,Delivered
+ORD-10033,CUST-1058,2026-10-23,Home & Kitchen,3,4424.02,Net Banking,Delivered
+ORD-10034,CUST-1022,2026-10-24,Electronics,1,3933.96,UPI,Delivered
+ORD-10035,CUST-1236,2026-08-02,Apparel,4,3456.46,Debit Card,Returned
+ORD-10036,CUST-1089,2026-09-24,Books,2,449.1,Debit Card,Returned
+ORD-10037,CUST-1049,2026-09-14,Electronics,1,2814.34,Credit Card,Delivered
+ORD-10038,CUST-1219,2026-10-29,Home & Kitchen,2,477.18,Net Banking,Returned
+ORD-10039,CUST-1059,2026-04-11,Books,2,4097.92,Debit Card,Delivered
+ORD-10040,CUST-1170,2026-04-20,Apparel,2,1807.41,Debit Card,Delivered
+ORD-10041,CUST-1220,2026-07-01,Books,4,2943.42,Net Banking,Delivered
+ORD-10042,CUST-1188,2026-01-01,Electronics,2,1613.39,Cash on Delivery,Cancelled
+ORD-10043,CUST-1208,2026-02-24,Apparel,2,3977.75,Debit Card,Delivered
+ORD-10044,CUST-1015,2026-05-29,Home & Kitchen,3,4466.56,UPI,Cancelled
+ORD-10045,CUST-1190,2026-05-17,Apparel,2,2173.62,Credit Card,Delivered
+ORD-10046,CUST-1190,2026-07-21,Apparel,1,4355.74,Debit Card,Delivered
+ORD-10047,CUST-1175,2026-04-27,Fitness,3,1555.25,Debit Card,Delivered
+ORD-10048,CUST-1190,2026-06-03,Apparel,1,2812.91,Cash on Delivery,Delivered
+ORD-10049,CUST-1051,2026-10-18,Apparel,2,4336.18,UPI,Delivered
+ORD-10050,CUST-1108,2026-03-04,Books,3,1831.64,Credit Card,Delivered
+ORD-10051,CUST-1055,2026-09-01,Home & Kitchen,2,4784.0,Debit Card,Delivered
+ORD-10052,CUST-1244,2026-01-25,Books,2,872.83,Credit Card,Delivered
+ORD-10053,CUST-1064,2026-03-31,Books,2,385.89,Net Banking,Delivered
+ORD-10054,CUST-1249,2026-03-16,Electronics,1,4549.44,Debit Card,Cancelled
+ORD-10055,CUST-1131,2026-10-21,Books,3,622.65,Debit Card,Delivered
+ORD-10056,CUST-1229,2026-07-29,Fitness,1,4961.88,Net Banking,Delivered
+ORD-10057,CUST-1051,2026-01-17,Fitness,1,4771.57,Cash on Delivery,Delivered
+ORD-10058,CUST-1135,2026-05-08,Electronics,1,944.0,Debit Card,Delivered
+ORD-10059,CUST-1021,2026-09-08,Home & Kitchen,2,2826.65,Credit Card,Delivered
+ORD-10060,CUST-1073,2026-06-28,Home & Kitchen,2,1169.13,UPI,Delivered
+ORD-10061,CUST-1167,2026-07-01,Books,3,2312.33,Credit Card,Delivered
+ORD-10062,CUST-1018,2026-06-01,Books,1,588.7,Cash on Delivery,Delivered
+ORD-10063,CUST-1132,2026-01-25,Books,1,1352.45,UPI,Delivered
+ORD-10064,CUST-1089,2026-06-29,Home & Kitchen,1,2007.38,Credit Card,Cancelled
+ORD-10065,CUST-1060,2026-07-17,Apparel,1,2361.64,Credit Card,Delivered
+ORD-10066,CUST-1014,2026-06-10,Fitness,2,4894.23,Net Banking,Returned
+ORD-10067,CUST-1242,2026-06-26,Apparel,1,4096.97,Cash on Delivery,Cancelled
+ORD-10068,CUST-1009,2026-10-12,Apparel,1,3765.83,Net Banking,Cancelled
+ORD-10069,CUST-1090,2026-03-04,Home & Kitchen,1,2824.09,UPI,Cancelled
+ORD-10070,CUST-1053,2026-05-30,Apparel,1,4247.99,Net Banking,Delivered
+ORD-10071,CUST-1130,2026-06-03,Electronics,1,1894.82,Cash on Delivery,Delivered
+ORD-10072,CUST-1084,2026-06-05,Books,1,3631.83,Debit Card,Delivered
+ORD-10073,CUST-1092,2026-02-18,Electronics,2,4970.78,Debit Card,Delivered
+ORD-10074,CUST-1111,2026-03-25,Fitness,3,1778.76,UPI,Delivered
+ORD-10075,CUST-1188,2026-06-26,Books,2,3467.88,Debit Card,Delivered
+ORD-10076,CUST-1199,2026-05-28,Apparel,4,4268.28,Net Banking,Cancelled
+ORD-10077,CUST-1172,2026-04-28,Fitness,1,4604.3,UPI,Returned
+ORD-10078,CUST-1008,2026-03-04,Books,2,3674.28,Cash on Delivery,Delivered
+ORD-10079,CUST-1175,2026-07-08,Apparel,4,1632.96,UPI,Delivered
+ORD-10080,CUST-1035,2026-02-18,Electronics,1,1833.53,UPI,Returned
+ORD-10081,CUST-1206,2026-09-14,Books,3,397.56,Credit Card,Delivered
+ORD-10082,CUST-1081,2026-08-12,Apparel,1,3876.16,Credit Card,Delivered
+ORD-10083,CUST-1164,2026-05-21,Electronics,1,500.88,UPI,Delivered
+ORD-10084,CUST-1050,2026-08-03,Fitness,1,4363.87,Debit Card,Delivered
+ORD-10085,CUST-1104,2026-07-30,Fitness,2,857.7,Credit Card,Delivered
+ORD-10086,CUST-1132,2026-02-01,Fitness,2,1107.82,Cash on Delivery,Cancelled
+ORD-10087,CUST-1002,2026-06-07,Fitness,2,2539.67,Net Banking,Delivered
+ORD-10088,CUST-1134,2026-10-12,Home & Kitchen,1,3768.04,Credit Card,Delivered
+ORD-10089,CUST-1054,2026-10-13,Books,1,953.31,UPI,Delivered
+ORD-10090,CUST-1106,2026-05-24,Books,1,2368.33,Debit Card,Delivered
+ORD-10091,CUST-1004,2026-01-19,Home & Kitchen,1,2569.4,Net Banking,Returned
+ORD-10092,CUST-1054,2026-01-18,Apparel,3,1297.74,Credit Card,Delivered
+ORD-10093,CUST-1221,2026-09-14,Apparel,1,843.12,Debit Card,Delivered
+ORD-10094,CUST-1191,2026-03-19,Fitness,3,4231.18,Debit Card,Delivered
+ORD-10095,CUST-1146,2026-06-24,Electronics,3,2661.59,Debit Card,Delivered
+ORD-10096,CUST-1218,2026-07-13,Apparel,1,367.59,UPI,Delivered
+ORD-10097,CUST-1044,2026-04-23,Electronics,2,4074.01,Cash on Delivery,Delivered
+ORD-10098,CUST-1162,2026-04-24,Books,1,4909.73,Debit Card,Delivered
+ORD-10099,CUST-1202,2026-08-10,Electronics,1,3147.85,Net Banking,Delivered
+ORD-10100,CUST-1190,2026-06-15,Books,1,2667.43,Credit Card,Delivered
+ORD-10101,CUST-1228,2026-05-12,Home & Kitchen,2,4428.55,Net Banking,Returned
+ORD-10102,CUST-1014,2026-09-21,Home & Kitchen,1,4776.83,UPI,Cancelled
+ORD-10103,CUST-1095,2026-02-24,Fitness,2,3846.32,UPI,Delivered
+ORD-10104,CUST-1048,2026-05-11,Apparel,2,2393.63,Net Banking,Delivered
+ORD-10105,CUST-1015,2026-10-15,Fitness,1,3083.44,Cash on Delivery,Delivered
+ORD-10106,CUST-1200,2026-09-23,Books,2,3594.4,UPI,Delivered
+ORD-10107,CUST-1206,2026-06-11,Fitness,2,1213.09,UPI,Delivered
+ORD-10108,CUST-1215,2026-03-28,Electronics,1,2401.84,Net Banking,Delivered
+ORD-10109,CUST-1249,2026-02-24,Books,1,4200.16,UPI,Delivered
+ORD-10110,CUST-1190,2026-10-15,Home & Kitchen,2,3377.21,Cash on Delivery,Delivered
+ORD-10111,CUST-1040,2026-06-27,Apparel,1,2232.66,Cash on Delivery,Delivered
+ORD-10112,CUST-1213,2026-01-08,Books,2,3417.8,Cash on Delivery,Delivered
+ORD-10113,CUST-1208,2026-09-04,Books,1,855.65,Credit Card,Delivered
+ORD-10114,CUST-1237,2026-09-12,Electronics,1,2187.04,Cash on Delivery,Delivered
+ORD-10115,CUST-1082,2026-02-23,Apparel,1,4027.7,Cash on Delivery,Delivered
+ORD-10116,CUST-1111,2026-09-06,Home & Kitchen,1,1336.39,Credit Card,Delivered
+ORD-10117,CUST-1053,2026-08-27,Books,2,1174.02,Debit Card,Delivered
+ORD-10118,CUST-1024,2026-08-17,Books,1,4768.85,UPI,Delivered
+ORD-10119,CUST-1154,2026-03-08,Electronics,2,1286.52,Cash on Delivery,Cancelled
+ORD-10120,CUST-1217,2026-02-20,Fitness,3,1526.32,UPI,Delivered
+ORD-10121,CUST-1188,2026-04-07,Home & Kitchen,2,4857.19,Net Banking,Delivered
+ORD-10122,CUST-1124,2026-04-02,Apparel,2,3753.13,UPI,Delivered
+ORD-10123,CUST-1237,2026-09-21,Books,1,3588.1,Credit Card,Returned
+ORD-10124,CUST-1041,2026-10-18,Books,1,4308.75,UPI,Delivered
+ORD-10125,CUST-1157,2026-04-06,Home & Kitchen,2,844.37,UPI,Delivered
+ORD-10126,CUST-1015,2026-03-29,Fitness,1,3617.99,UPI,Cancelled
+ORD-10127,CUST-1045,2026-03-19,Books,2,2667.34,Debit Card,Delivered
+ORD-10128,CUST-1065,2026-10-15,Home & Kitchen,1,4197.01,Debit Card,Delivered
+ORD-10129,CUST-1089,2026-04-30,Electronics,2,2688.27,Net Banking,Delivered
+ORD-10130,CUST-1071,2026-10-29,Fitness,3,3215.13,Credit Card,Delivered
+ORD-10131,CUST-1009,2026-06-14,Apparel,3,2545.39,UPI,Cancelled
+ORD-10132,CUST-1088,2026-07-01,Books,2,2547.35,UPI,Delivered
+ORD-10133,CUST-1129,2026-08-11,Home & Kitchen,2,3909.46,UPI,Delivered
+ORD-10134,CUST-1236,2026-01-07,Electronics,2,3254.26,UPI,Delivered
+ORD-10135,CUST-1136,2026-09-20,Apparel,2,3276.34,Debit Card,Delivered
+ORD-10136,CUST-1216,2026-06-10,Home & Kitchen,1,2416.33,Net Banking,Delivered
+ORD-10137,CUST-1063,2026-05-31,Home & Kitchen,1,2796.21,Cash on Delivery,Delivered
+ORD-10138,CUST-1139,2026-03-26,Apparel,1,3804.87,Credit Card,Delivered
+ORD-10139,CUST-1243,2026-05-27,Electronics,4,4181.92,UPI,Delivered
+ORD-10140,CUST-1081,2026-04-22,Electronics,1,3573.84,Net Banking,Delivered
+ORD-10141,CUST-1136,2026-02-05,Fitness,2,4643.14,Cash on Delivery,Delivered
+ORD-10142,CUST-1163,2026-10-12,Books,2,4155.52,Net Banking,Delivered
+ORD-10143,CUST-1163,2026-07-07,Apparel,2,2940.76,Debit Card,Delivered
+ORD-10144,CUST-1033,2026-03-23,Apparel,2,3455.61,Cash on Delivery,Delivered
+ORD-10145,CUST-1123,2026-01-02,Apparel,1,4653.65,Net Banking,Delivered
+ORD-10146,CUST-1005,2026-10-30,Electronics,2,3210.09,Debit Card,Delivered
+ORD-10147,CUST-1234,2026-07-16,Books,3,4176.59,Net Banking,Delivered
+ORD-10148,CUST-1231,2026-01-11,Fitness,1,3537.41,Net Banking,Delivered
+ORD-10149,CUST-1041,2026-08-22,Home & Kitchen,1,2894.1,Cash on Delivery,Returned
+ORD-10150,CUST-1028,2026-07-14,Home & Kitchen,2,1436.64,Debit Card,Delivered
+ORD-10151,CUST-1135,2026-04-29,Apparel,3,2302.19,UPI,Delivered
+ORD-10152,CUST-1201,2026-01-20,Books,1,4848.39,Credit Card,Delivered
+ORD-10153,CUST-1072,2026-09-18,Electronics,2,3391.5,Cash on Delivery,Delivered
+ORD-10154,CUST-1012,2026-10-20,Books,3,2952.66,Debit Card,Delivered
+ORD-10155,CUST-1162,2026-09-13,Books,1,4684.9,Net Banking,Cancelled
+ORD-10156,CUST-1033,2026-08-10,Electronics,4,3056.61,Debit Card,Delivered
+ORD-10157,CUST-1048,2026-08-14,Apparel,2,2772.59,Credit Card,Delivered
+ORD-10158,CUST-1247,2026-02-22,Books,2,3868.76,Credit Card,Delivered
+ORD-10159,CUST-1151,2026-10-07,Home & Kitchen,2,3649.53,UPI,Delivered
+ORD-10160,CUST-1062,2026-03-22,Electronics,1,1207.85,UPI,Delivered
+ORD-10161,CUST-1216,2026-07-21,Fitness,1,2515.15,Credit Card,Delivered
+ORD-10162,CUST-1037,2026-06-07,Apparel,1,2520.82,Cash on Delivery,Delivered
+ORD-10163,CUST-1099,2026-04-30,Electronics,1,2077.66,Cash on Delivery,Delivered
+ORD-10164,CUST-1172,2026-02-28,Fitness,1,2731.28,Net Banking,Delivered
+ORD-10165,CUST-1104,2026-08-03,Fitness,3,2241.6,UPI,Delivered
+ORD-10166,CUST-1214,2026-05-08,Books,3,1236.92,Net Banking,Delivered
+ORD-10167,CUST-1219,2026-08-12,Books,2,2238.12,UPI,Delivered
+ORD-10168,CUST-1035,2026-07-28,Books,3,639.7,Credit Card,Delivered
+ORD-10169,CUST-1193,2026-04-25,Electronics,2,3006.19,Cash on Delivery,Cancelled
+ORD-10170,CUST-1227,2026-07-28,Electronics,1,4312.18,Cash on Delivery,Delivered
+ORD-10171,CUST-1101,2026-01-14,Apparel,1,3708.85,Credit Card,Cancelled
+ORD-10172,CUST-1175,2026-01-09,Books,2,1993.85,Net Banking,Returned
+ORD-10173,CUST-1206,2026-02-09,Fitness,2,709.23,Net Banking,Cancelled
+ORD-10174,CUST-1131,2026-08-25,Home & Kitchen,1,1250.1,Debit Card,Delivered
+ORD-10175,CUST-1001,2026-10-08,Apparel,2,2863.8,UPI,Delivered
+ORD-10176,CUST-1005,2026-07-20,Electronics,1,1273.17,Net Banking,Delivered
+ORD-10177,CUST-1218,2026-09-03,Apparel,2,2856.67,Credit Card,Delivered
+ORD-10178,CUST-1247,2026-10-05,Apparel,3,1388.52,Net Banking,Delivered
+ORD-10179,CUST-1142,2026-08-23,Apparel,2,4289.94,Cash on Delivery,Delivered
+ORD-10180,CUST-1103,2026-01-04,Apparel,4,2167.18,UPI,Delivered
+ORD-10181,CUST-1027,2026-06-03,Home & Kitchen,3,1454.09,Debit Card,Delivered
+ORD-10182,CUST-1137,2026-01-29,Books,3,4117.93,UPI,Cancelled
+ORD-10183,CUST-1207,2026-04-19,Fitness,3,1911.34,Cash on Delivery,Delivered
+ORD-10184,CUST-1015,2026-04-08,Apparel,3,823.99,Cash on Delivery,Delivered
+ORD-10185,CUST-1090,2026-08-03,Apparel,2,2980.92,Cash on Delivery,Delivered
+ORD-10186,CUST-1042,2026-10-20,Apparel,1,3033.35,Cash on Delivery,Cancelled
+ORD-10187,CUST-1124,2026-03-16,Books,1,3659.07,Credit Card,Delivered
+ORD-10188,CUST-1205,2026-05-26,Electronics,2,1429.03,Debit Card,Delivered
+ORD-10189,CUST-1179,2026-05-08,Electronics,1,2385.73,Cash on Delivery,Delivered
+ORD-10190,CUST-1063,2026-02-11,Home & Kitchen,1,1627.13,Cash on Delivery,Cancelled
+ORD-10191,CUST-1096,2026-02-10,Electronics,4,680.48,Net Banking,Delivered
+ORD-10192,CUST-1231,2026-02-03,Apparel,3,4420.08,Debit Card,Delivered
+ORD-10193,CUST-1241,2026-01-17,Apparel,3,3725.69,UPI,Delivered
+ORD-10194,CUST-1052,2026-06-14,Apparel,1,1716.88,Debit Card,Delivered
+ORD-10195,CUST-1096,2026-06-02,Home & Kitchen,1,3117.05,Debit Card,Delivered
+ORD-10196,CUST-1132,2026-03-17,Apparel,1,1245.94,Debit Card,Cancelled
+ORD-10197,CUST-1222,2026-03-28,Electronics,1,4484.11,Cash on Delivery,Returned
+ORD-10198,CUST-1229,2026-04-27,Books,1,840.06,Cash on Delivery,Delivered
+ORD-10199,CUST-1151,2026-01-27,Books,1,318.03,Credit Card,Delivered
+ORD-10200,CUST-1231,2026-10-14,Fitness,3,2659.44,UPI,Delivered
+ORD-10201,CUST-1237,2026-05-14,Electronics,2,3040.7,Net Banking,Delivered
+ORD-10202,CUST-1143,2026-08-07,Apparel,1,3021.14,Debit Card,Delivered
+ORD-10203,CUST-1171,2026-06-17,Books,1,556.21,UPI,Delivered
+ORD-10204,CUST-1029,2026-04-08,Electronics,2,1776.01,UPI,Delivered
+ORD-10205,CUST-1036,2026-09-25,Books,1,2646.24,Credit Card,Delivered
+ORD-10206,CUST-1013,2026-08-25,Apparel,3,1317.92,Net Banking,Delivered
+ORD-10207,CUST-1160,2026-06-22,Books,1,4401.34,Debit Card,Delivered
+ORD-10208,CUST-1071,2026-07-09,Fitness,1,709.41,Net Banking,Delivered
+ORD-10209,CUST-1187,2026-05-02,Fitness,1,2590.71,Credit Card,Delivered
+ORD-10210,CUST-1243,2026-02-15,Books,1,3549.66,Cash on Delivery,Delivered
+ORD-10211,CUST-1086,2026-03-05,Electronics,2,1530.23,UPI,Cancelled
+ORD-10212,CUST-1028,2026-05-10,Electronics,2,3233.93,Debit Card,Delivered
+ORD-10213,CUST-1066,2026-07-12,Electronics,2,4198.11,Cash on Delivery,Cancelled
+ORD-10214,CUST-1170,2026-06-30,Books,1,1194.58,Credit Card,Cancelled
+ORD-10215,CUST-1045,2026-10-19,Electronics,2,4610.94,Net Banking,Delivered
+ORD-10216,CUST-1062,2026-10-09,Apparel,2,2901.73,UPI,Delivered
+ORD-10217,CUST-1185,2026-01-29,Fitness,3,1706.39,Debit Card,Delivered
+ORD-10218,CUST-1245,2026-05-29,Apparel,1,2325.03,Cash on Delivery,Cancelled
+ORD-10219,CUST-1134,2026-09-24,Electronics,1,1767.3,Cash on Delivery,Returned
+ORD-10220,CUST-1028,2026-10-23,Apparel,2,3708.02,UPI,Delivered
+ORD-10221,CUST-1028,2026-01-11,Electronics,2,4042.61,Net Banking,Delivered
+ORD-10222,CUST-1108,2026-06-13,Books,1,4214.81,Credit Card,Delivered
+ORD-10223,CUST-1044,2026-04-23,Apparel,1,4933.11,Net Banking,Delivered
+ORD-10224,CUST-1084,2026-07-06,Books,1,4019.04,Net Banking,Delivered
+ORD-10225,CUST-1030,2026-10-22,Books,3,3126.51,Net Banking,Delivered
+ORD-10226,CUST-1190,2026-08-20,Home & Kitchen,1,1894.34,UPI,Delivered
+ORD-10227,CUST-1075,2026-08-15,Electronics,3,2859.6,UPI,Delivered
+ORD-10228,CUST-1128,2026-04-08,Fitness,2,493.02,Credit Card,Delivered
+ORD-10229,CUST-1247,2026-02-24,Electronics,3,3800.68,Net Banking,Delivered
+ORD-10230,CUST-1092,2026-04-21,Fitness,3,2395.99,UPI,Cancelled
+ORD-10231,CUST-1217,2026-06-01,Electronics,1,394.11,Credit Card,Delivered
+ORD-10232,CUST-1231,2026-09-03,Books,3,593.78,Credit Card,Delivered
+ORD-10233,CUST-1190,2026-03-10,Apparel,1,2121.09,Net Banking,Delivered
+ORD-10234,CUST-1225,2026-10-16,Apparel,3,3042.08,Debit Card,Delivered
+ORD-10235,CUST-1129,2026-09-07,Home & Kitchen,2,2481.76,Net Banking,Delivered
+ORD-10236,CUST-1121,2026-02-05,Fitness,1,3210.26,Debit Card,Delivered
+ORD-10237,CUST-1027,2026-08-27,Fitness,2,2557.38,Credit Card,Delivered
+ORD-10238,CUST-1190,2026-05-28,Fitness,4,3410.01,UPI,Delivered
+ORD-10239,CUST-1121,2026-08-15,Books,1,1329.89,Cash on Delivery,Delivered
+ORD-10240,CUST-1116,2026-09-01,Fitness,2,830.36,Credit Card,Delivered
+ORD-10241,CUST-1205,2026-07-20,Apparel,2,3103.24,UPI,Delivered
+ORD-10242,CUST-1233,2026-06-03,Books,3,2578.04,Credit Card,Delivered
+ORD-10243,CUST-1003,2026-03-14,Electronics,1,426.28,Net Banking,Delivered
+ORD-10244,CUST-1103,2026-07-20,Fitness,1,2088.26,Debit Card,Delivered
+ORD-10245,CUST-1198,2026-10-23,Fitness,1,798.79,Credit Card,Delivered
+ORD-10246,CUST-1200,2026-01-17,Electronics,2,2797.38,UPI,Delivered
+ORD-10247,CUST-1155,2026-05-09,Fitness,1,2160.16,Net Banking,Delivered
+ORD-10248,CUST-1137,2026-08-05,Electronics,3,3181.81,Cash on Delivery,Delivered
+ORD-10249,CUST-1062,2026-03-02,Books,1,4086.33,Net Banking,Delivered
+ORD-10250,CUST-1165,2026-04-14,Apparel,2,1708.44,Debit Card,Delivered
+ORD-10251,CUST-1225,2026-02-11,Electronics,1,4821.88,Net Banking,Returned
+ORD-10252,CUST-1051,2026-01-25,Home & Kitchen,1,2817.48,Cash on Delivery,Returned
+ORD-10253,CUST-1234,2026-02-08,Electronics,1,3205.97,UPI,Delivered
+ORD-10254,CUST-1172,2026-10-18,Fitness,1,3499.16,Credit Card,Cancelled
+ORD-10255,CUST-1152,2026-05-11,Books,2,3433.64,Debit Card,Delivered
+ORD-10256,CUST-1207,2026-08-17,Books,3,2701.56,Cash on Delivery,Delivered
+ORD-10257,CUST-1059,2026-04-18,Electronics,2,2315.19,Debit Card,Delivered
+ORD-10258,CUST-1118,2026-06-21,Apparel,4,552.78,Net Banking,Cancelled
+ORD-10259,CUST-1160,2026-04-12,Home & Kitchen,3,403.8,Debit Card,Delivered
+ORD-10260,CUST-1096,2026-01-12,Books,2,1982.42,Cash on Delivery,Delivered
+ORD-10261,CUST-1216,2026-10-02,Fitness,3,1868.21,Credit Card,Delivered
+ORD-10262,CUST-1233,2026-04-11,Fitness,2,2122.17,Credit Card,Delivered
+ORD-10263,CUST-1180,2026-02-13,Apparel,1,950.33,Debit Card,Delivered
+ORD-10264,CUST-1113,2026-01-17,Books,2,3769.39,UPI,Delivered
+ORD-10265,CUST-1062,2026-02-26,Electronics,1,4327.73,Debit Card,Delivered
+ORD-10266,CUST-1241,2026-10-30,Fitness,2,4711.96,Net Banking,Delivered
+ORD-10267,CUST-1186,2026-01-12,Apparel,2,2614.1,Credit Card,Delivered
+ORD-10268,CUST-1052,2026-03-21,Books,1,3594.07,Credit Card,Delivered
+ORD-10269,CUST-1012,2026-08-04,Books,1,4321.09,Credit Card,Delivered
+ORD-10270,CUST-1039,2026-09-21,Books,3,2265.97,UPI,Delivered
+ORD-10271,CUST-1130,2026-05-29,Books,2,1754.24,UPI,Cancelled
+ORD-10272,CUST-1131,2026-03-22,Books,1,4702.61,Cash on Delivery,Delivered
+ORD-10273,CUST-1113,2026-08-03,Fitness,2,2723.68,Debit Card,Delivered
+ORD-10274,CUST-1101,2026-07-17,Apparel,2,2637.09,Debit Card,Delivered
+ORD-10275,CUST-1113,2026-07-19,Books,2,1138.56,Net Banking,Delivered
+ORD-10276,CUST-1184,2026-01-25,Home & Kitchen,4,808.33,Credit Card,Cancelled
+ORD-10277,CUST-1081,2026-03-30,Home & Kitchen,2,4257.9,UPI,Delivered
+ORD-10278,CUST-1187,2026-09-25,Apparel,1,3186.43,Net Banking,Delivered
+ORD-10279,CUST-1113,2026-05-23,Electronics,3,1831.38,Net Banking,Delivered
+ORD-10280,CUST-1002,2026-02-28,Electronics,3,1201.16,UPI,Delivered
+ORD-10281,CUST-1130,2026-01-26,Electronics,1,2910.84,Debit Card,Delivered
+ORD-10282,CUST-1220,2026-02-16,Home & Kitchen,1,3044.42,Credit Card,Delivered
+ORD-10283,CUST-1054,2026-10-15,Electronics,1,1272.87,Debit Card,Delivered
+ORD-10284,CUST-1087,2026-09-23,Fitness,2,4301.61,Net Banking,Delivered
+ORD-10285,CUST-1229,2026-01-16,Books,2,696.04,Credit Card,Delivered
+ORD-10286,CUST-1224,2026-07-18,Home & Kitchen,2,1973.64,Cash on Delivery,Delivered
+ORD-10287,CUST-1225,2026-10-09,Apparel,3,3497.81,Net Banking,Delivered
+ORD-10288,CUST-1129,2026-03-27,Apparel,2,1588.37,Debit Card,Delivered
+ORD-10289,CUST-1147,2026-09-07,Books,1,4190.07,Debit Card,Delivered
+ORD-10290,CUST-1126,2026-09-27,Home & Kitchen,1,3777.38,Debit Card,Delivered
+ORD-10291,CUST-1130,2026-04-27,Electronics,1,4008.41,UPI,Delivered
+ORD-10292,CUST-1053,2026-01-07,Electronics,1,859.8,Net Banking,Delivered
+ORD-10293,CUST-1172,2026-05-17,Fitness,2,960.57,Credit Card,Delivered
+ORD-10294,CUST-1218,2026-06-25,Fitness,3,1646.43,Debit Card,Delivered
+ORD-10295,CUST-1160,2026-08-03,Electronics,1,2734.96,Debit Card,Delivered
+ORD-10296,CUST-1198,2026-03-23,Apparel,2,3815.68,UPI,Delivered
+ORD-10297,CUST-1160,2026-08-11,Apparel,2,4231.7,Credit Card,Delivered
+ORD-10298,CUST-1247,2026-04-13,Fitness,1,3610.38,Net Banking,Delivered
+ORD-10299,CUST-1068,2026-09-30,Books,1,4664.41,Cash on Delivery,Delivered
+ORD-10300,CUST-1183,2026-01-14,Electronics,1,3772.09,UPI,Delivered
+ORD-10301,CUST-1203,2026-06-08,Fitness,1,1739.46,Net Banking,Delivered
+ORD-10302,CUST-1184,2026-06-01,Fitness,3,1545.88,Cash on Delivery,Delivered
+ORD-10303,CUST-1123,2026-04-18,Electronics,1,3572.1,Debit Card,Cancelled
+ORD-10304,CUST-1145,2026-07-07,Electronics,1,1206.49,Debit Card,Delivered
+ORD-10305,CUST-1038,2026-10-28,Apparel,2,735.76,Credit Card,Delivered
+ORD-10306,CUST-1024,2026-04-08,Books,4,2801.45,Cash on Delivery,Delivered
+ORD-10307,CUST-1069,2026-05-11,Books,1,4161.72,Debit Card,Delivered
+ORD-10308,CUST-1116,2026-10-20,Electronics,1,776.49,Debit Card,Delivered
+ORD-10309,CUST-1098,2026-06-20,Home & Kitchen,1,4021.89,Credit Card,Delivered
+ORD-10310,CUST-1198,2026-07-02,Fitness,1,4114.39,Net Banking,Returned
+ORD-10311,CUST-1214,2026-02-08,Fitness,1,2566.69,Debit Card,Delivered
+ORD-10312,CUST-1139,2026-01-15,Electronics,2,569.36,UPI,Delivered
+ORD-10313,CUST-1240,2026-01-04,Home & Kitchen,1,1120.57,UPI,Cancelled
+ORD-10314,CUST-1144,2026-07-29,Apparel,1,3624.9,Net Banking,Delivered
+ORD-10315,CUST-1097,2026-06-10,Electronics,3,3645.36,Cash on Delivery,Delivered
+ORD-10316,CUST-1201,2026-01-16,Electronics,1,4522.27,Credit Card,Delivered
+ORD-10317,CUST-1124,2026-04-18,Fitness,1,3038.62,UPI,Delivered
+ORD-10318,CUST-1187,2026-08-15,Electronics,1,883.3,UPI,Delivered
+ORD-10319,CUST-1070,2026-06-19,Electronics,4,870.65,Net Banking,Delivered
+ORD-10320,CUST-1208,2026-02-03,Electronics,1,3689.32,Cash on Delivery,Delivered
+ORD-10321,CUST-1093,2026-09-08,Fitness,3,1163.79,Cash on Delivery,Delivered
+ORD-10322,CUST-1003,2026-09-04,Apparel,2,1843.41,Net Banking,Returned
+ORD-10323,CUST-1148,2026-09-26,Apparel,1,2589.9,UPI,Delivered
+ORD-10324,CUST-1187,2026-05-21,Electronics,4,416.39,Credit Card,Delivered
+ORD-10325,CUST-1164,2026-10-01,Fitness,1,1469.45,UPI,Delivered
+ORD-10326,CUST-1147,2026-04-06,Apparel,1,2217.08,Cash on Delivery,Delivered
+ORD-10327,CUST-1090,2026-08-15,Apparel,3,1614.29,UPI,Cancelled
+ORD-10328,CUST-1195,2026-02-08,Apparel,2,940.94,Credit Card,Delivered
+ORD-10329,CUST-1147,2026-10-29,Fitness,2,3721.66,Debit Card,Delivered
+ORD-10330,CUST-1148,2026-01-29,Fitness,1,4121.79,UPI,Delivered
+ORD-10331,CUST-1096,2026-09-02,Electronics,1,1510.15,Net Banking,Cancelled
+ORD-10332,CUST-1199,2026-08-24,Books,2,3939.77,Debit Card,Delivered
+ORD-10333,CUST-1052,2026-07-04,Apparel,1,2112.1,Net Banking,Delivered
+ORD-10334,CUST-1233,2026-09-29,Books,1,2681.42,Net Banking,Delivered
+ORD-10335,CUST-1161,2026-08-24,Fitness,1,4323.21,Net Banking,Returned
+ORD-10336,CUST-1168,2026-08-27,Fitness,1,3824.78,UPI,Delivered
+ORD-10337,CUST-1128,2026-09-23,Fitness,3,4084.05,Cash on Delivery,Delivered
+ORD-10338,CUST-1039,2026-03-06,Books,1,943.17,Debit Card,Delivered
+ORD-10339,CUST-1082,2026-06-26,Fitness,4,627.68,Credit Card,Delivered
+ORD-10340,CUST-1104,2026-01-03,Electronics,1,4499.0,Cash on Delivery,Delivered
+ORD-10341,CUST-1129,2026-05-22,Fitness,2,2122.82,UPI,Cancelled
+ORD-10342,CUST-1011,2026-06-07,Home & Kitchen,1,1653.03,Net Banking,Cancelled
+ORD-10343,CUST-1220,2026-05-26,Books,1,3706.07,Credit Card,Returned
+ORD-10344,CUST-1185,2026-10-20,Home & Kitchen,1,4231.15,Debit Card,Delivered
+ORD-10345,CUST-1217,2026-06-02,Fitness,1,4353.7,Cash on Delivery,Delivered
+ORD-10346,CUST-1178,2026-07-12,Electronics,2,1785.19,Cash on Delivery,Delivered
+ORD-10347,CUST-1151,2026-03-14,Apparel,4,4305.4,Credit Card,Delivered
+ORD-10348,CUST-1159,2026-05-20,Fitness,2,492.39,UPI,Delivered
+ORD-10349,CUST-1222,2026-07-06,Electronics,1,533.41,Debit Card,Delivered
+ORD-10350,CUST-1042,2026-10-20,Books,1,3230.54,Credit Card,Cancelled
+ORD-10351,CUST-1099,2026-03-02,Home & Kitchen,1,596.6,Net Banking,Delivered
+ORD-10352,CUST-1007,2026-07-17,Home & Kitchen,2,1825.66,Debit Card,Cancelled
+ORD-10353,CUST-1144,2026-10-22,Home & Kitchen,2,3461.95,Cash on Delivery,Delivered
+ORD-10354,CUST-1090,2026-10-29,Books,3,1885.15,Credit Card,Delivered
+ORD-10355,CUST-1112,2026-01-11,Electronics,1,1144.12,Cash on Delivery,Delivered
+ORD-10356,CUST-1249,2026-03-03,Books,2,1622.35,Cash on Delivery,Delivered
+ORD-10357,CUST-1244,2026-08-14,Home & Kitchen,1,2450.6,Cash on Delivery,Delivered
+ORD-10358,CUST-1060,2026-06-02,Fitness,2,2534.31,UPI,Cancelled
+ORD-10359,CUST-1113,2026-07-18,Apparel,2,3980.1,Cash on Delivery,Delivered
+ORD-10360,CUST-1002,2026-02-21,Books,2,3825.72,Net Banking,Delivered
+ORD-10361,CUST-1129,2026-09-17,Books,2,2447.04,Net Banking,Delivered
+ORD-10362,CUST-1048,2026-02-28,Electronics,1,4274.64,Debit Card,Delivered
+ORD-10363,CUST-1140,2026-03-13,Electronics,2,836.91,Cash on Delivery,Delivered
+ORD-10364,CUST-1197,2026-05-28,Books,1,1500.16,Cash on Delivery,Delivered
+ORD-10365,CUST-1037,2026-03-04,Home & Kitchen,2,4191.49,Credit Card,Cancelled
+ORD-10366,CUST-1160,2026-08-31,Apparel,1,2076.57,UPI,Delivered
+ORD-10367,CUST-1247,2026-04-17,Electronics,2,4911.55,Debit Card,Delivered
+ORD-10368,CUST-1009,2026-08-14,Home & Kitchen,3,2491.39,Cash on Delivery,Delivered
+ORD-10369,CUST-1233,2026-08-06,Fitness,3,4022.1,Credit Card,Delivered
+ORD-10370,CUST-1099,2026-08-29,Electronics,3,2190.84,UPI,Returned
+ORD-10371,CUST-1147,2026-09-16,Home & Kitchen,2,2297.28,Debit Card,Delivered
+ORD-10372,CUST-1048,2026-09-19,Home & Kitchen,2,2099.55,Debit Card,Cancelled
+ORD-10373,CUST-1208,2026-01-05,Apparel,2,3679.66,Cash on Delivery,Delivered
+ORD-10374,CUST-1131,2026-09-18,Apparel,3,2873.33,Debit Card,Delivered
+ORD-10375,CUST-1148,2026-02-23,Fitness,1,4735.76,Credit Card,Cancelled
+ORD-10376,CUST-1152,2026-02-16,Home & Kitchen,4,1479.18,Debit Card,Delivered
+ORD-10377,CUST-1054,2026-08-03,Home & Kitchen,3,772.64,Net Banking,Delivered
+ORD-10378,CUST-1120,2026-06-26,Apparel,2,2148.33,Credit Card,Delivered
+ORD-10379,CUST-1161,2026-01-09,Electronics,1,3198.55,UPI,Delivered
+ORD-10380,CUST-1152,2026-04-09,Electronics,1,4345.76,UPI,Delivered
+ORD-10381,CUST-1116,2026-01-20,Books,3,1927.13,Cash on Delivery,Delivered
+ORD-10382,CUST-1075,2026-08-29,Apparel,1,3372.8,Cash on Delivery,Delivered
+ORD-10383,CUST-1113,2026-03-02,Books,3,1945.93,Net Banking,Delivered
+ORD-10384,CUST-1200,2026-06-27,Apparel,1,3200.93,UPI,Returned
+ORD-10385,CUST-1164,2026-03-03,Fitness,1,4458.6,UPI,Delivered
+ORD-10386,CUST-1166,2026-05-25,Home & Kitchen,3,1387.38,UPI,Delivered
+ORD-10387,CUST-1104,2026-08-04,Fitness,2,2199.94,UPI,Delivered
+ORD-10388,CUST-1084,2026-01-03,Apparel,2,4968.35,Debit Card,Delivered
+ORD-10389,CUST-1227,2026-06-09,Home & Kitchen,2,4382.22,Credit Card,Delivered
+ORD-10390,CUST-1112,2026-08-15,Electronics,1,2953.81,Credit Card,Delivered
+ORD-10391,CUST-1217,2026-09-26,Electronics,2,2728.15,Net Banking,Delivered
+ORD-10392,CUST-1099,2026-04-30,Books,1,1637.62,Debit Card,Delivered
+ORD-10393,CUST-1153,2026-03-30,Apparel,3,2730.88,UPI,Delivered
+ORD-10394,CUST-1093,2026-03-09,Apparel,3,4286.45,UPI,Delivered
+ORD-10395,CUST-1146,2026-04-08,Electronics,1,3520.32,Cash on Delivery,Delivered
+ORD-10396,CUST-1128,2026-09-24,Fitness,2,1663.21,Cash on Delivery,Delivered
+ORD-10397,CUST-1110,2026-04-15,Home & Kitchen,2,1246.88,Net Banking,Delivered
+ORD-10398,CUST-1082,2026-05-03,Fitness,1,1546.48,UPI,Delivered
+ORD-10399,CUST-1194,2026-01-29,Fitness,4,1097.87,Net Banking,Returned
+ORD-10400,CUST-1054,2026-05-17,Electronics,1,749.51,Debit Card,Delivered
+ORD-10401,CUST-1163,2026-07-14,Electronics,1,2269.94,Credit Card,Delivered
+ORD-10402,CUST-1208,2026-08-14,Electronics,2,832.51,UPI,Delivered
+ORD-10403,CUST-1189,2026-06-19,Books,2,1107.99,Debit Card,Cancelled
+ORD-10404,CUST-1169,2026-01-09,Fitness,2,2872.43,UPI,Cancelled
+ORD-10405,CUST-1228,2026-02-09,Apparel,2,1073.62,Cash on Delivery,Delivered
+ORD-10406,CUST-1161,2026-01-25,Home & Kitchen,2,600.23,Net Banking,Delivered
+ORD-10407,CUST-1068,2026-09-18,Books,2,1791.73,Cash on Delivery,Delivered
+ORD-10408,CUST-1033,2026-08-14,Apparel,1,1335.5,Credit Card,Delivered
+ORD-10409,CUST-1142,2026-05-04,Fitness,1,2721.93,Cash on Delivery,Delivered
+ORD-10410,CUST-1021,2026-02-07,Electronics,1,781.13,UPI,Delivered
+ORD-10411,CUST-1048,2026-09-08,Fitness,1,3833.32,Cash on Delivery,Delivered
+ORD-10412,CUST-1148,2026-06-25,Home & Kitchen,2,4559.3,UPI,Delivered
+ORD-10413,CUST-1248,2026-03-31,Books,1,3794.15,Credit Card,Delivered
+ORD-10414,CUST-1128,2026-02-06,Books,1,2804.29,Cash on Delivery,Delivered
+ORD-10415,CUST-1136,2026-06-25,Home & Kitchen,1,4345.14,Net Banking,Cancelled
+ORD-10416,CUST-1135,2026-10-11,Apparel,3,3566.12,Net Banking,Delivered
+ORD-10417,CUST-1195,2026-03-22,Apparel,3,349.59,Net Banking,Delivered
+ORD-10418,CUST-1145,2026-04-24,Books,2,2152.22,Cash on Delivery,Delivered
+ORD-10419,CUST-1128,2026-02-09,Books,3,4299.47,Cash on Delivery,Delivered
+ORD-10420,CUST-1033,2026-10-28,Electronics,2,1925.54,Cash on Delivery,Delivered
+ORD-10421,CUST-1176,2026-08-12,Apparel,2,465.51,UPI,Delivered
+ORD-10422,CUST-1204,2026-04-25,Home & Kitchen,1,3807.04,Credit Card,Delivered
+ORD-10423,CUST-1187,2026-07-05,Apparel,2,4069.58,Net Banking,Delivered
+ORD-10424,CUST-1115,2026-02-25,Electronics,2,1054.79,UPI,Delivered
+ORD-10425,CUST-1214,2026-02-09,Books,2,2825.5,Net Banking,Cancelled
+ORD-10426,CUST-1119,2026-02-09,Books,2,1202.19,UPI,Delivered
+ORD-10427,CUST-1022,2026-08-25,Electronics,2,3680.4,Cash on Delivery,Cancelled
+ORD-10428,CUST-1238,2026-10-16,Home & Kitchen,2,1576.29,Net Banking,Delivered
+ORD-10429,CUST-1158,2026-09-19,Books,3,1786.21,Cash on Delivery,Delivered
+ORD-10430,CUST-1038,2026-08-04,Fitness,1,4271.36,Net Banking,Delivered
+ORD-10431,CUST-1230,2026-05-27,Books,2,2538.72,Debit Card,Delivered
+ORD-10432,CUST-1109,2026-06-17,Fitness,1,3447.85,UPI,Delivered
+ORD-10433,CUST-1051,2026-04-02,Electronics,2,2191.15,Debit Card,Delivered
+ORD-10434,CUST-1182,2026-02-28,Electronics,2,1700.63,UPI,Delivered
+ORD-10435,CUST-1008,2026-02-28,Books,1,3239.75,Credit Card,Delivered
+ORD-10436,CUST-1027,2026-10-31,Apparel,2,1027.83,Net Banking,Delivered
+ORD-10437,CUST-1027,2026-06-18,Fitness,1,2053.1,Credit Card,Cancelled
+ORD-10438,CUST-1226,2026-09-26,Home & Kitchen,2,1282.47,Credit Card,Delivered
+ORD-10439,CUST-1021,2026-02-14,Books,1,3570.24,UPI,Delivered
+ORD-10440,CUST-1030,2026-06-30,Home & Kitchen,2,4737.78,Debit Card,Delivered
+ORD-10441,CUST-1097,2026-06-19,Books,1,4978.9,Cash on Delivery,Delivered
+ORD-10442,CUST-1028,2026-07-10,Apparel,2,2416.3,UPI,Delivered
+ORD-10443,CUST-1111,2026-06-04,Apparel,1,1486.89,Cash on Delivery,Delivered
+ORD-10444,CUST-1192,2026-07-07,Apparel,3,2381.3,Credit Card,Delivered
+ORD-10445,CUST-1225,2026-01-07,Apparel,3,4282.17,Cash on Delivery,Delivered
+ORD-10446,CUST-1197,2026-05-13,Electronics,4,1268.23,Debit Card,Returned
+ORD-10447,CUST-1061,2026-08-23,Electronics,2,4774.85,UPI,Delivered
+ORD-10448,CUST-1048,2026-02-14,Fitness,2,1906.77,Debit Card,Delivered
+ORD-10449,CUST-1147,2026-09-06,Home & Kitchen,1,4933.28,Debit Card,Delivered
+ORD-10450,CUST-1004,2026-01-31,Books,1,4241.46,UPI,Delivered
+ORD-10451,CUST-1035,2026-01-23,Books,1,4100.28,Debit Card,Delivered
+ORD-10452,CUST-1192,2026-06-09,Electronics,2,1794.15,Net Banking,Delivered
+ORD-10453,CUST-1049,2026-06-07,Books,3,341.25,Net Banking,Cancelled
+ORD-10454,CUST-1017,2026-02-08,Electronics,1,2096.02,Net Banking,Delivered
+ORD-10455,CUST-1172,2026-03-23,Fitness,3,1718.5,Cash on Delivery,Delivered
+ORD-10456,CUST-1220,2026-09-15,Home & Kitchen,2,475.77,Debit Card,Delivered
+ORD-10457,CUST-1158,2026-07-25,Fitness,2,2675.22,UPI,Delivered
+ORD-10458,CUST-1221,2026-03-18,Apparel,1,2194.25,UPI,Delivered
+ORD-10459,CUST-1046,2026-01-12,Apparel,1,3282.42,Cash on Delivery,Delivered
+ORD-10460,CUST-1117,2026-10-22,Apparel,2,3219.58,UPI,Delivered
+ORD-10461,CUST-1006,2026-08-12,Fitness,2,867.51,Net Banking,Delivered
+ORD-10462,CUST-1099,2026-01-13,Books,1,4891.74,Debit Card,Delivered
+ORD-10463,CUST-1124,2026-02-15,Home & Kitchen,2,1178.58,UPI,Delivered
+ORD-10464,CUST-1233,2026-06-04,Apparel,3,2392.79,UPI,Delivered
+ORD-10465,CUST-1037,2026-04-23,Apparel,3,2594.15,Credit Card,Delivered
+ORD-10466,CUST-1024,2026-08-21,Apparel,3,4121.4,Credit Card,Cancelled
+ORD-10467,CUST-1093,2026-01-17,Home & Kitchen,1,766.38,Credit Card,Delivered
+ORD-10468,CUST-1241,2026-08-11,Apparel,1,2314.63,Debit Card,Delivered
+ORD-10469,CUST-1046,2026-07-07,Home & Kitchen,2,3253.96,Net Banking,Delivered
+ORD-10470,CUST-1181,2026-06-12,Apparel,1,1311.23,Net Banking,Delivered
+ORD-10471,CUST-1095,2026-03-15,Fitness,1,3249.1,Net Banking,Delivered
+ORD-10472,CUST-1099,2026-08-21,Fitness,1,4641.22,Debit Card,Delivered
+ORD-10473,CUST-1188,2026-08-12,Home & Kitchen,1,4988.34,Debit Card,Delivered
+ORD-10474,CUST-1225,2026-03-01,Fitness,1,452.52,Credit Card,Cancelled
+ORD-10475,CUST-1116,2026-08-10,Home & Kitchen,1,1407.26,UPI,Returned
+ORD-10476,CUST-1191,2026-02-06,Fitness,1,1758.44,Cash on Delivery,Delivered
+ORD-10477,CUST-1213,2026-10-05,Fitness,1,2175.89,Cash on Delivery,Delivered
+ORD-10478,CUST-1160,2026-07-15,Home & Kitchen,2,1438.61,UPI,Delivered
+ORD-10479,CUST-1215,2026-08-30,Books,2,1256.39,Credit Card,Delivered
+ORD-10480,CUST-1161,2026-08-07,Fitness,2,4786.4,UPI,Delivered
+ORD-10481,CUST-1067,2026-07-11,Apparel,1,4617.05,UPI,Delivered
+ORD-10482,CUST-1128,2026-01-17,Books,1,520.86,Cash on Delivery,Delivered
+ORD-10483,CUST-1018,2026-01-12,Home & Kitchen,2,1892.42,Credit Card,Delivered
+ORD-10484,CUST-1025,2026-07-12,Books,2,2204.2,Debit Card,Delivered
+ORD-10485,CUST-1234,2026-01-22,Electronics,2,1423.37,Cash on Delivery,Delivered
+ORD-10486,CUST-1223,2026-04-30,Electronics,1,3255.7,Debit Card,Delivered
+ORD-10487,CUST-1054,2026-07-29,Fitness,3,3309.79,Credit Card,Delivered
+ORD-10488,CUST-1058,2026-09-27,Fitness,1,4297.37,UPI,Delivered
+ORD-10489,CUST-1067,2026-07-11,Apparel,1,3782.09,Net Banking,Delivered
+ORD-10490,CUST-1104,2026-06-24,Books,2,2850.09,Net Banking,Delivered
+ORD-10491,CUST-1174,2026-10-12,Electronics,2,3371.86,Credit Card,Delivered
+ORD-10492,CUST-1024,2026-07-23,Fitness,1,1587.75,Net Banking,Delivered
+ORD-10493,CUST-1114,2026-06-13,Books,1,3087.36,Debit Card,Delivered
+ORD-10494,CUST-1032,2026-09-08,Fitness,2,2599.37,Net Banking,Delivered
+ORD-10495,CUST-1175,2026-08-15,Fitness,1,926.72,Credit Card,Delivered
+ORD-10496,CUST-1086,2026-01-07,Electronics,1,1439.96,Credit Card,Delivered
+ORD-10497,CUST-1151,2026-01-29,Electronics,1,1670.96,Debit Card,Delivered
+ORD-10498,CUST-1194,2026-02-02,Fitness,3,4644.25,Net Banking,Delivered
+ORD-10499,CUST-1127,2026-05-14,Home & Kitchen,1,1382.82,Net Banking,Delivered
+ORD-10500,CUST-1155,2026-03-20,Fitness,4,1659.45,UPI,Returned
+ORD-10501,CUST-1234,2026-02-27,Fitness,2,2035.96,Cash on Delivery,Delivered
+ORD-10502,CUST-1130,2026-01-26,Apparel,4,3419.59,Credit Card,Delivered
+ORD-10503,CUST-1218,2026-08-14,Apparel,3,855.72,UPI,Delivered
+ORD-10504,CUST-1017,2026-10-12,Apparel,1,4783.54,Credit Card,Delivered
+ORD-10505,CUST-1104,2026-01-04,Home & Kitchen,1,4368.18,UPI,Delivered
+ORD-10506,CUST-1161,2026-04-09,Home & Kitchen,1,3012.92,Cash on Delivery,Delivered
+ORD-10507,CUST-1137,2026-02-08,Fitness,1,3467.98,UPI,Delivered
+ORD-10508,CUST-1043,2026-09-28,Apparel,2,378.3,Credit Card,Delivered
+ORD-10509,CUST-1246,2026-10-12,Home & Kitchen,1,1893.04,Net Banking,Delivered
+ORD-10510,CUST-1176,2026-06-06,Electronics,1,4039.6,Credit Card,Delivered
+ORD-10511,CUST-1039,2026-03-16,Fitness,1,664.17,Debit Card,Returned
+ORD-10512,CUST-1221,2026-10-15,Books,3,1626.88,Debit Card,Delivered
+ORD-10513,CUST-1170,2026-05-10,Fitness,1,3050.9,Debit Card,Delivered
+ORD-10514,CUST-1247,2026-06-24,Books,1,1505.14,Debit Card,Delivered
+ORD-10515,CUST-1026,2026-03-25,Apparel,1,4689.7,Cash on Delivery,Delivered
+ORD-10516,CUST-1099,2026-01-22,Books,3,915.98,Net Banking,Returned
+ORD-10517,CUST-1050,2026-01-27,Apparel,2,4047.75,Net Banking,Cancelled
+ORD-10518,CUST-1153,2026-07-14,Electronics,1,2687.36,Credit Card,Delivered
+ORD-10519,CUST-1152,2026-08-24,Books,1,3826.55,UPI,Delivered
+ORD-10520,CUST-1013,2026-04-02,Fitness,1,1760.36,Credit Card,Delivered
+ORD-10521,CUST-1060,2026-01-21,Apparel,1,2718.1,Credit Card,Delivered
+ORD-10522,CUST-1135,2026-10-30,Fitness,3,4327.13,Credit Card,Delivered
+ORD-10523,CUST-1057,2026-03-25,Home & Kitchen,2,2494.33,Credit Card,Cancelled
+ORD-10524,CUST-1036,2026-09-19,Apparel,1,1990.68,Net Banking,Returned
+ORD-10525,CUST-1173,2026-05-27,Books,3,2819.93,UPI,Returned
+ORD-10526,CUST-1020,2026-09-14,Apparel,1,3671.6,Credit Card,Delivered
+ORD-10527,CUST-1065,2026-02-27,Fitness,2,2384.75,Net Banking,Delivered
+ORD-10528,CUST-1008,2026-01-15,Electronics,3,4712.72,Credit Card,Delivered
+ORD-10529,CUST-1238,2026-06-11,Apparel,1,1686.25,Debit Card,Delivered
+ORD-10530,CUST-1144,2026-06-12,Books,2,2534.68,Credit Card,Delivered
+ORD-10531,CUST-1142,2026-10-08,Home & Kitchen,1,3857.56,Credit Card,Delivered
+ORD-10532,CUST-1204,2026-10-07,Electronics,1,3538.87,Cash on Delivery,Delivered
+ORD-10533,CUST-1115,2026-01-12,Home & Kitchen,1,4359.11,Debit Card,Delivered
+ORD-10534,CUST-1215,2026-10-01,Apparel,1,4985.0,UPI,Cancelled
+ORD-10535,CUST-1143,2026-09-28,Fitness,2,2306.23,Credit Card,Cancelled
+ORD-10536,CUST-1092,2026-07-27,Fitness,3,822.41,UPI,Returned
+ORD-10537,CUST-1098,2026-01-27,Books,2,442.95,Debit Card,Delivered
+ORD-10538,CUST-1066,2026-03-13,Fitness,3,3716.32,Credit Card,Delivered
+ORD-10539,CUST-1032,2026-03-01,Electronics,3,4407.86,Cash on Delivery,Delivered
+ORD-10540,CUST-1215,2026-05-25,Fitness,1,1337.35,Net Banking,Delivered
+ORD-10541,CUST-1191,2026-04-03,Books,1,1044.71,Cash on Delivery,Returned
+ORD-10542,CUST-1086,2026-01-08,Apparel,1,592.36,Cash on Delivery,Cancelled
+ORD-10543,CUST-1051,2026-03-20,Apparel,2,4166.7,Net Banking,Delivered
+ORD-10544,CUST-1153,2026-01-27,Fitness,3,1763.5,Net Banking,Delivered
+ORD-10545,CUST-1186,2026-06-23,Home & Kitchen,1,2187.98,Net Banking,Delivered
+ORD-10546,CUST-1063,2026-02-19,Apparel,2,2662.93,Credit Card,Delivered
+ORD-10547,CUST-1190,2026-07-18,Fitness,2,4245.43,UPI,Cancelled
+ORD-10548,CUST-1125,2026-06-30,Books,2,3358.92,UPI,Delivered
+ORD-10549,CUST-1150,2026-01-24,Fitness,1,3190.8,Net Banking,Delivered
+ORD-10550,CUST-1058,2026-02-15,Apparel,1,1125.66,Cash on Delivery,Delivered
+ORD-10551,CUST-1058,2026-01-15,Books,1,2711.99,Debit Card,Delivered
+ORD-10552,CUST-1086,2026-06-02,Fitness,1,3662.29,Net Banking,Delivered
+ORD-10553,CUST-1049,2026-08-10,Electronics,1,4874.33,Cash on Delivery,Cancelled
+ORD-10554,CUST-1180,2026-07-25,Books,2,1246.61,Cash on Delivery,Delivered
+ORD-10555,CUST-1170,2026-09-30,Electronics,1,344.85,Credit Card,Delivered
+ORD-10556,CUST-1070,2026-08-24,Home & Kitchen,3,653.92,Credit Card,Delivered
+ORD-10557,CUST-1015,2026-08-16,Books,2,2066.51,UPI,Delivered
+ORD-10558,CUST-1054,2026-01-09,Electronics,2,4156.56,UPI,Delivered
+ORD-10559,CUST-1235,2026-06-15,Apparel,1,333.57,Debit Card,Delivered
+ORD-10560,CUST-1188,2026-08-02,Apparel,2,2446.63,Debit Card,Delivered
+ORD-10561,CUST-1101,2026-04-27,Home & Kitchen,3,1847.38,Debit Card,Delivered
+ORD-10562,CUST-1225,2026-03-13,Books,1,546.66,Debit Card,Delivered
+ORD-10563,CUST-1008,2026-03-05,Books,1,2416.11,Cash on Delivery,Delivered
+ORD-10564,CUST-1053,2026-07-24,Books,2,1497.32,Cash on Delivery,Delivered
+ORD-10565,CUST-1060,2026-07-28,Home & Kitchen,1,1953.86,UPI,Delivered
+ORD-10566,CUST-1236,2026-03-13,Books,1,3616.39,Credit Card,Delivered
+ORD-10567,CUST-1108,2026-10-04,Apparel,1,2751.29,Credit Card,Delivered
+ORD-10568,CUST-1005,2026-10-01,Electronics,1,885.84,Net Banking,Delivered
+ORD-10569,CUST-1103,2026-04-05,Apparel,2,4818.65,Cash on Delivery,Delivered
+ORD-10570,CUST-1196,2026-06-15,Apparel,1,3288.78,Debit Card,Cancelled
+ORD-10571,CUST-1006,2026-02-01,Electronics,3,3899.58,Debit Card,Delivered
+ORD-10572,CUST-1109,2026-01-11,Apparel,2,672.3,Net Banking,Delivered
+ORD-10573,CUST-1224,2026-10-28,Home & Kitchen,2,521.17,Credit Card,Returned
+ORD-10574,CUST-1116,2026-08-05,Electronics,2,391.41,Debit Card,Delivered
+ORD-10575,CUST-1094,2026-10-16,Apparel,3,1187.33,Credit Card,Delivered
+ORD-10576,CUST-1047,2026-04-12,Fitness,1,2247.72,Net Banking,Delivered
+ORD-10577,CUST-1099,2026-09-24,Apparel,3,4698.38,Credit Card,Delivered
+ORD-10578,CUST-1055,2026-08-02,Home & Kitchen,2,2448.18,Credit Card,Delivered
+ORD-10579,CUST-1168,2026-06-28,Books,2,1664.2,Credit Card,Delivered
+ORD-10580,CUST-1052,2026-03-29,Apparel,2,2941.1,Debit Card,Delivered
+ORD-10581,CUST-1144,2026-02-10,Books,1,826.09,UPI,Returned
+ORD-10582,CUST-1013,2026-03-17,Fitness,1,3164.68,Cash on Delivery,Delivered
+ORD-10583,CUST-1114,2026-02-15,Apparel,2,2971.63,Credit Card,Delivered
+ORD-10584,CUST-1124,2026-06-09,Electronics,1,4022.37,Credit Card,Delivered
+ORD-10585,CUST-1106,2026-03-21,Books,2,4937.43,Credit Card,Delivered
+ORD-10586,CUST-1158,2026-03-27,Fitness,1,1479.11,UPI,Delivered
+ORD-10587,CUST-1147,2026-04-02,Electronics,1,2695.39,Net Banking,Delivered
+ORD-10588,CUST-1145,2026-05-28,Electronics,1,4571.67,Debit Card,Delivered
+ORD-10589,CUST-1120,2026-06-10,Electronics,1,3990.39,UPI,Delivered
+ORD-10590,CUST-1063,2026-07-21,Electronics,2,2590.81,Credit Card,Delivered
+ORD-10591,CUST-1019,2026-08-30,Apparel,1,4743.25,UPI,Delivered
+ORD-10592,CUST-1092,2026-01-02,Apparel,4,569.01,UPI,Delivered
+ORD-10593,CUST-1058,2026-08-13,Apparel,2,4675.69,UPI,Delivered
+ORD-10594,CUST-1183,2026-10-16,Fitness,1,537.38,Net Banking,Delivered
+ORD-10595,CUST-1090,2026-08-21,Fitness,2,2872.33,Cash on Delivery,Delivered
+ORD-10596,CUST-1229,2026-03-18,Fitness,3,4485.07,Debit Card,Delivered
+ORD-10597,CUST-1218,2026-04-26,Home & Kitchen,2,1534.79,Net Banking,Delivered
+ORD-10598,CUST-1117,2026-06-03,Fitness,1,2519.57,Net Banking,Delivered
+ORD-10599,CUST-1062,2026-04-13,Apparel,3,1824.35,Cash on Delivery,Delivered
+ORD-10600,CUST-1023,2026-07-13,Apparel,2,4775.08,Net Banking,Delivered
+ORD-10601,CUST-1127,2026-06-15,Home & Kitchen,1,4171.13,UPI,Delivered
+ORD-10602,CUST-1137,2026-03-31,Home & Kitchen,1,3632.31,UPI,Delivered
+ORD-10603,CUST-1140,2026-06-23,Fitness,2,3061.85,Credit Card,Delivered
+ORD-10604,CUST-1245,2026-05-02,Books,1,4156.78,Net Banking,Delivered
+ORD-10605,CUST-1129,2026-05-23,Home & Kitchen,3,2143.66,Credit Card,Delivered
+ORD-10606,CUST-1058,2026-04-16,Electronics,1,2403.49,Debit Card,Delivered
+ORD-10607,CUST-1122,2026-05-03,Apparel,3,3731.01,UPI,Delivered
+ORD-10608,CUST-1001,2026-01-09,Electronics,2,1981.45,Debit Card,Delivered
+ORD-10609,CUST-1239,2026-09-19,Apparel,1,600.33,Cash on Delivery,Delivered
+ORD-10610,CUST-1034,2026-03-14,Apparel,1,649.37,UPI,Delivered
+ORD-10611,CUST-1096,2026-08-11,Home & Kitchen,2,842.21,Debit Card,Delivered
+ORD-10612,CUST-1126,2026-02-10,Home & Kitchen,2,4387.5,Cash on Delivery,Cancelled
+ORD-10613,CUST-1118,2026-07-23,Electronics,2,2519.46,Debit Card,Cancelled
+ORD-10614,CUST-1048,2026-09-21,Apparel,1,3650.55,Cash on Delivery,Delivered
+ORD-10615,CUST-1089,2026-06-27,Electronics,1,2146.67,Cash on Delivery,Delivered
+ORD-10616,CUST-1232,2026-03-25,Books,1,1515.94,UPI,Delivered
+ORD-10617,CUST-1237,2026-04-21,Electronics,2,1931.8,Credit Card,Delivered
+ORD-10618,CUST-1117,2026-09-08,Fitness,1,4032.66,Cash on Delivery,Delivered
+ORD-10619,CUST-1129,2026-01-07,Electronics,1,3238.52,Cash on Delivery,Delivered
+ORD-10620,CUST-1016,2026-03-25,Fitness,2,4706.91,UPI,Cancelled
+ORD-10621,CUST-1189,2026-07-27,Fitness,3,3494.61,Credit Card,Cancelled
+ORD-10622,CUST-1231,2026-01-22,Fitness,1,2979.85,Net Banking,Delivered
+ORD-10623,CUST-1192,2026-01-03,Books,1,3167.92,Net Banking,Delivered
+ORD-10624,CUST-1191,2026-05-07,Electronics,2,4729.15,Credit Card,Delivered
+ORD-10625,CUST-1069,2026-10-24,Electronics,2,4004.54,Debit Card,Delivered
+ORD-10626,CUST-1022,2026-07-07,Books,1,412.99,UPI,Delivered
+ORD-10627,CUST-1093,2026-01-14,Apparel,3,2810.46,Credit Card,Delivered
+ORD-10628,CUST-1247,2026-01-12,Home & Kitchen,3,3535.19,Net Banking,Delivered
+ORD-10629,CUST-1195,2026-03-28,Electronics,1,3818.88,Cash on Delivery,Delivered
+ORD-10630,CUST-1076,2026-01-12,Home & Kitchen,1,1301.77,Net Banking,Delivered
+ORD-10631,CUST-1154,2026-01-25,Books,2,4375.73,Cash on Delivery,Cancelled
+ORD-10632,CUST-1144,2026-10-28,Apparel,2,4792.46,UPI,Delivered
+ORD-10633,CUST-1179,2026-08-31,Apparel,1,1412.56,Cash on Delivery,Delivered
+ORD-10634,CUST-1229,2026-05-02,Apparel,2,4448.29,Credit Card,Delivered
+ORD-10635,CUST-1086,2026-05-27,Books,2,755.8,Cash on Delivery,Delivered
+ORD-10636,CUST-1185,2026-02-24,Fitness,1,561.82,Debit Card,Delivered
+ORD-10637,CUST-1029,2026-08-26,Fitness,2,907.35,Credit Card,Delivered
+ORD-10638,CUST-1206,2026-06-22,Home & Kitchen,3,571.38,UPI,Cancelled
+ORD-10639,CUST-1220,2026-08-09,Fitness,1,4271.56,Credit Card,Delivered
+ORD-10640,CUST-1069,2026-04-29,Fitness,1,577.54,Debit Card,Delivered
+ORD-10641,CUST-1047,2026-07-02,Apparel,1,1576.82,UPI,Delivered
+ORD-10642,CUST-1241,2026-10-15,Apparel,3,787.65,Net Banking,Cancelled
+ORD-10643,CUST-1094,2026-10-27,Home & Kitchen,4,1688.48,Debit Card,Delivered
+ORD-10644,CUST-1238,2026-03-23,Electronics,1,725.63,UPI,Delivered
+ORD-10645,CUST-1190,2026-07-30,Home & Kitchen,2,3439.62,Cash on Delivery,Delivered
+ORD-10646,CUST-1244,2026-05-30,Home & Kitchen,2,926.64,Credit Card,Delivered
+ORD-10647,CUST-1197,2026-02-06,Books,2,4303.68,UPI,Delivered
+ORD-10648,CUST-1204,2026-02-28,Books,1,4140.8,Credit Card,Delivered
+ORD-10649,CUST-1144,2026-05-11,Home & Kitchen,1,364.21,Cash on Delivery,Delivered
+ORD-10650,CUST-1218,2026-07-21,Home & Kitchen,1,4509.91,UPI,Delivered
+ORD-10651,CUST-1218,2026-08-31,Home & Kitchen,2,436.04,Net Banking,Delivered
+ORD-10652,CUST-1176,2026-02-04,Fitness,1,1426.34,Debit Card,Delivered
+ORD-10653,CUST-1085,2026-04-03,Books,3,452.23,UPI,Delivered
+ORD-10654,CUST-1039,2026-07-26,Home & Kitchen,1,1878.46,Cash on Delivery,Delivered
+ORD-10655,CUST-1100,2026-08-01,Apparel,1,2715.17,UPI,Delivered
+ORD-10656,CUST-1033,2026-06-08,Apparel,2,4044.23,Credit Card,Delivered
+ORD-10657,CUST-1222,2026-01-24,Fitness,2,1888.51,UPI,Cancelled
+ORD-10658,CUST-1101,2026-10-20,Fitness,1,3615.8,Net Banking,Returned
+ORD-10659,CUST-1023,2026-01-04,Electronics,1,1181.27,UPI,Delivered
+ORD-10660,CUST-1010,2026-08-08,Electronics,4,3827.81,Debit Card,Delivered
+ORD-10661,CUST-1246,2026-01-20,Electronics,1,1409.18,UPI,Delivered
+ORD-10662,CUST-1069,2026-06-01,Fitness,1,974.66,Credit Card,Cancelled
+ORD-10663,CUST-1100,2026-02-19,Fitness,3,1171.42,UPI,Delivered
+ORD-10664,CUST-1034,2026-06-26,Fitness,1,1155.7,Net Banking,Delivered
+ORD-10665,CUST-1180,2026-04-06,Apparel,1,2710.46,Cash on Delivery,Delivered
+ORD-10666,CUST-1223,2026-04-15,Fitness,1,4270.55,UPI,Cancelled
+ORD-10667,CUST-1138,2026-09-07,Apparel,1,674.14,UPI,Delivered
+ORD-10668,CUST-1147,2026-04-27,Electronics,1,3622.69,Debit Card,Delivered
+ORD-10669,CUST-1186,2026-08-16,Electronics,1,3375.43,Net Banking,Delivered
+ORD-10670,CUST-1096,2026-03-07,Electronics,1,4400.84,Cash on Delivery,Delivered
+ORD-10671,CUST-1001,2026-09-19,Home & Kitchen,1,1447.49,Credit Card,Delivered
+ORD-10672,CUST-1248,2026-10-22,Home & Kitchen,2,2415.52,UPI,Delivered
+ORD-10673,CUST-1069,2026-08-31,Books,1,4651.39,Cash on Delivery,Delivered
+ORD-10674,CUST-1237,2026-07-05,Books,1,3401.97,Credit Card,Cancelled
+ORD-10675,CUST-1004,2026-09-03,Books,3,2127.21,Net Banking,Delivered
+ORD-10676,CUST-1016,2026-05-05,Home & Kitchen,2,917.64,Net Banking,Delivered
+ORD-10677,CUST-1024,2026-09-25,Home & Kitchen,1,1533.68,Cash on Delivery,Delivered
+ORD-10678,CUST-1080,2026-05-11,Books,3,3031.71,Credit Card,Delivered
+ORD-10679,CUST-1247,2026-08-25,Books,1,3675.39,Net Banking,Delivered
+ORD-10680,CUST-1002,2026-01-18,Fitness,1,884.78,Cash on Delivery,Delivered
+ORD-10681,CUST-1241,2026-02-09,Books,2,3118.11,Net Banking,Delivered
+ORD-10682,CUST-1220,2026-01-21,Fitness,2,2886.65,Net Banking,Returned
+ORD-10683,CUST-1128,2026-08-13,Apparel,1,2715.59,Net Banking,Cancelled
+ORD-10684,CUST-1160,2026-10-09,Home & Kitchen,1,3543.58,Debit Card,Returned
+ORD-10685,CUST-1219,2026-01-08,Books,2,4236.01,Credit Card,Delivered
+ORD-10686,CUST-1084,2026-04-10,Home & Kitchen,1,1818.05,Cash on Delivery,Delivered
+ORD-10687,CUST-1152,2026-08-28,Home & Kitchen,3,4478.36,Cash on Delivery,Delivered
+ORD-10688,CUST-1140,2026-03-28,Home & Kitchen,1,1054.98,Credit Card,Delivered
+ORD-10689,CUST-1178,2026-10-25,Apparel,3,1113.21,Credit Card,Delivered
+ORD-10690,CUST-1163,2026-01-14,Electronics,2,1553.83,Credit Card,Delivered
+ORD-10691,CUST-1124,2026-01-02,Books,3,861.8,Credit Card,Delivered
+ORD-10692,CUST-1033,2026-10-20,Electronics,2,1382.5,UPI,Delivered
+ORD-10693,CUST-1161,2026-02-10,Electronics,2,800.14,Cash on Delivery,Delivered
+ORD-10694,CUST-1189,2026-04-21,Electronics,1,4162.24,UPI,Delivered
+ORD-10695,CUST-1179,2026-01-14,Home & Kitchen,1,953.15,Net Banking,Delivered
+ORD-10696,CUST-1171,2026-08-19,Fitness,1,3812.3,Net Banking,Delivered
+ORD-10697,CUST-1101,2026-03-25,Home & Kitchen,3,525.2,Cash on Delivery,Delivered
+ORD-10698,CUST-1012,2026-05-10,Home & Kitchen,3,4758.05,Net Banking,Delivered
+ORD-10699,CUST-1067,2026-08-19,Electronics,1,3642.45,Credit Card,Returned
+ORD-10700,CUST-1065,2026-05-25,Home & Kitchen,1,331.94,UPI,Delivered
+ORD-10701,CUST-1161,2026-01-28,Electronics,1,3890.13,Credit Card,Returned
+ORD-10702,CUST-1168,2026-03-07,Fitness,2,2716.19,Net Banking,Delivered
+ORD-10703,CUST-1074,2026-06-12,Books,1,3963.02,UPI,Delivered
+ORD-10704,CUST-1043,2026-08-17,Electronics,2,2755.74,Credit Card,Delivered
+ORD-10705,CUST-1044,2026-09-18,Fitness,4,3312.82,Cash on Delivery,Delivered
+ORD-10706,CUST-1029,2026-06-13,Books,1,3995.76,Credit Card,Delivered
+ORD-10707,CUST-1141,2026-10-28,Apparel,1,2204.01,Net Banking,Delivered
+ORD-10708,CUST-1012,2026-10-30,Electronics,1,312.73,UPI,Delivered
+ORD-10709,CUST-1095,2026-10-14,Electronics,1,4294.75,Cash on Delivery,Delivered
+ORD-10710,CUST-1046,2026-01-10,Apparel,1,2090.18,UPI,Delivered
+ORD-10711,CUST-1130,2026-07-14,Apparel,1,2631.4,Cash on Delivery,Delivered
+ORD-10712,CUST-1243,2026-04-28,Electronics,3,336.5,UPI,Delivered
+ORD-10713,CUST-1242,2026-09-27,Apparel,1,2612.83,Net Banking,Delivered
+ORD-10714,CUST-1035,2026-03-21,Home & Kitchen,1,4936.49,Cash on Delivery,Delivered
+ORD-10715,CUST-1215,2026-04-03,Books,3,1607.86,Debit Card,Delivered
+ORD-10716,CUST-1081,2026-09-23,Books,2,2158.47,UPI,Delivered
+ORD-10717,CUST-1090,2026-09-14,Books,1,3529.79,UPI,Delivered
+ORD-10718,CUST-1008,2026-05-13,Home & Kitchen,2,4129.53,Credit Card,Cancelled
+ORD-10719,CUST-1093,2026-10-03,Apparel,1,2261.74,Cash on Delivery,Delivered
+ORD-10720,CUST-1154,2026-09-21,Fitness,2,1755.44,Debit Card,Delivered
+ORD-10721,CUST-1202,2026-06-20,Apparel,2,4707.78,Net Banking,Delivered
+ORD-10722,CUST-1090,2026-01-01,Electronics,2,3482.58,Credit Card,Delivered
+ORD-10723,CUST-1162,2026-03-05,Books,1,859.4,Debit Card,Delivered
+ORD-10724,CUST-1115,2026-10-11,Apparel,3,623.96,Cash on Delivery,Delivered
+ORD-10725,CUST-1105,2026-05-01,Fitness,1,2572.68,Debit Card,Delivered
+ORD-10726,CUST-1135,2026-04-17,Electronics,1,1334.42,UPI,Delivered
+ORD-10727,CUST-1196,2026-06-24,Home & Kitchen,1,1493.73,UPI,Delivered
+ORD-10728,CUST-1058,2026-07-23,Home & Kitchen,1,4425.15,Credit Card,Delivered
+ORD-10729,CUST-1245,2026-06-14,Fitness,1,720.96,Cash on Delivery,Delivered
+ORD-10730,CUST-1114,2026-04-30,Electronics,3,3662.21,Cash on Delivery,Delivered
+ORD-10731,CUST-1237,2026-02-13,Books,3,1574.37,Debit Card,Cancelled
+ORD-10732,CUST-1075,2026-06-05,Apparel,1,3873.54,Credit Card,Delivered
+ORD-10733,CUST-1157,2026-07-26,Electronics,1,3695.33,Cash on Delivery,Delivered
+ORD-10734,CUST-1120,2026-04-18,Home & Kitchen,1,334.74,UPI,Delivered
+ORD-10735,CUST-1164,2026-09-08,Fitness,1,2692.94,Debit Card,Cancelled
+ORD-10736,CUST-1217,2026-05-10,Fitness,1,954.8,Net Banking,Delivered
+ORD-10737,CUST-1021,2026-10-20,Apparel,3,4371.27,UPI,Delivered
+ORD-10738,CUST-1249,2026-01-20,Fitness,1,4396.45,Credit Card,Delivered
+ORD-10739,CUST-1164,2026-10-09,Fitness,1,2266.23,Cash on Delivery,Delivered
+ORD-10740,CUST-1138,2026-10-12,Electronics,1,2388.66,UPI,Delivered
+ORD-10741,CUST-1101,2026-01-01,Books,3,1725.43,Net Banking,Delivered
+ORD-10742,CUST-1201,2026-04-29,Apparel,2,3668.05,Net Banking,Cancelled
+ORD-10743,CUST-1152,2026-02-04,Electronics,3,1985.71,Credit Card,Delivered
+ORD-10744,CUST-1192,2026-07-17,Books,2,1558.62,UPI,Delivered
+ORD-10745,CUST-1227,2026-09-02,Electronics,1,2331.49,Debit Card,Delivered
+ORD-10746,CUST-1177,2026-02-28,Electronics,1,729.99,UPI,Delivered
+ORD-10747,CUST-1099,2026-06-10,Fitness,2,3809.04,Net Banking,Returned
+ORD-10748,CUST-1240,2026-06-28,Books,1,359.2,Credit Card,Delivered
+ORD-10749,CUST-1036,2026-07-25,Apparel,2,3329.08,Credit Card,Delivered
+ORD-10750,CUST-1210,2026-01-12,Apparel,1,1159.46,Debit Card,Delivered
+ORD-10751,CUST-1241,2026-10-03,Books,1,1392.3,Credit Card,Delivered
+ORD-10752,CUST-1231,2026-06-30,Fitness,2,3287.47,Credit Card,Delivered
+ORD-10753,CUST-1096,2026-08-30,Home & Kitchen,2,4966.83,Credit Card,Cancelled
+ORD-10754,CUST-1152,2026-08-04,Electronics,2,3955.27,Credit Card,Returned
+ORD-10755,CUST-1151,2026-09-08,Fitness,1,1361.45,Credit Card,Delivered
+ORD-10756,CUST-1190,2026-10-26,Books,2,1127.32,Net Banking,Delivered
+ORD-10757,CUST-1224,2026-05-06,Electronics,1,4371.29,UPI,Delivered
+ORD-10758,CUST-1037,2026-08-05,Apparel,1,2387.66,Cash on Delivery,Cancelled
+ORD-10759,CUST-1012,2026-10-12,Home & Kitchen,1,944.15,Credit Card,Delivered
+ORD-10760,CUST-1113,2026-07-04,Apparel,1,4352.39,Cash on Delivery,Delivered
+ORD-10761,CUST-1183,2026-02-08,Books,1,4135.63,Cash on Delivery,Delivered
+ORD-10762,CUST-1013,2026-08-11,Electronics,1,4924.36,Net Banking,Delivered
+ORD-10763,CUST-1023,2026-07-03,Books,1,4575.8,Credit Card,Returned
+ORD-10764,CUST-1217,2026-06-27,Electronics,1,4303.41,Cash on Delivery,Delivered
+ORD-10765,CUST-1099,2026-10-21,Fitness,1,547.1,Credit Card,Delivered
+ORD-10766,CUST-1105,2026-05-31,Home & Kitchen,1,790.75,Debit Card,Delivered
+ORD-10767,CUST-1030,2026-05-06,Fitness,1,2974.22,Debit Card,Delivered
+ORD-10768,CUST-1017,2026-10-28,Fitness,2,2797.95,Debit Card,Delivered
+ORD-10769,CUST-1113,2026-08-22,Books,1,2452.43,Cash on Delivery,Delivered
+ORD-10770,CUST-1062,2026-01-08,Home & Kitchen,1,2164.91,Debit Card,Delivered
+ORD-10771,CUST-1084,2026-05-09,Electronics,1,2326.69,Net Banking,Delivered
+ORD-10772,CUST-1112,2026-09-21,Electronics,2,2975.7,Net Banking,Delivered
+ORD-10773,CUST-1217,2026-06-06,Apparel,3,309.76,Cash on Delivery,Delivered
+ORD-10774,CUST-1086,2026-01-05,Electronics,2,1525.33,Credit Card,Delivered
+ORD-10775,CUST-1141,2026-03-27,Books,2,2735.91,UPI,Delivered
+ORD-10776,CUST-1187,2026-06-24,Fitness,1,3694.42,Credit Card,Delivered
+ORD-10777,CUST-1019,2026-10-17,Fitness,2,1118.54,Credit Card,Delivered
+ORD-10778,CUST-1177,2026-07-12,Fitness,2,2870.34,Credit Card,Delivered
+ORD-10779,CUST-1100,2026-04-29,Home & Kitchen,1,3657.96,Credit Card,Delivered
+ORD-10780,CUST-1140,2026-08-06,Electronics,1,2389.75,UPI,Cancelled
+ORD-10781,CUST-1189,2026-04-24,Books,1,427.28,Debit Card,Delivered
+ORD-10782,CUST-1233,2026-05-25,Home & Kitchen,3,2411.56,Credit Card,Delivered
+ORD-10783,CUST-1147,2026-01-26,Apparel,2,1693.29,Net Banking,Delivered
+ORD-10784,CUST-1076,2026-05-16,Books,2,4669.35,Cash on Delivery,Delivered
+ORD-10785,CUST-1009,2026-10-30,Books,1,885.68,Cash on Delivery,Cancelled
+ORD-10786,CUST-1199,2026-08-20,Books,1,3366.64,Net Banking,Delivered
+ORD-10787,CUST-1028,2026-03-17,Fitness,1,547.78,Credit Card,Cancelled
+ORD-10788,CUST-1206,2026-10-29,Books,1,2397.0,UPI,Delivered
+ORD-10789,CUST-1223,2026-10-16,Electronics,3,2903.7,Debit Card,Returned
+ORD-10790,CUST-1128,2026-01-01,Books,2,1700.39,Cash on Delivery,Cancelled
+ORD-10791,CUST-1052,2026-05-27,Fitness,1,2438.86,Debit Card,Cancelled
+ORD-10792,CUST-1083,2026-10-14,Books,3,1068.7,UPI,Delivered
+ORD-10793,CUST-1111,2026-05-22,Apparel,1,1729.38,Cash on Delivery,Delivered
+ORD-10794,CUST-1144,2026-02-22,Apparel,4,3219.2,Debit Card,Delivered
+ORD-10795,CUST-1117,2026-10-31,Fitness,1,1718.46,UPI,Delivered
+ORD-10796,CUST-1069,2026-03-10,Electronics,1,4528.79,Debit Card,Returned
+ORD-10797,CUST-1099,2026-03-31,Electronics,1,3253.51,Credit Card,Delivered
+ORD-10798,CUST-1140,2026-08-08,Home & Kitchen,1,2361.65,UPI,Cancelled
+ORD-10799,CUST-1025,2026-07-11,Fitness,1,482.16,Debit Card,Delivered
+ORD-10800,CUST-1180,2026-03-04,Books,2,2647.88,Credit Card,Delivered
+ORD-10801,CUST-1123,2026-03-14,Fitness,3,3894.45,Credit Card,Delivered
+ORD-10802,CUST-1213,2026-06-10,Home & Kitchen,2,1548.12,UPI,Delivered
+ORD-10803,CUST-1228,2026-06-18,Fitness,1,4091.84,Net Banking,Delivered
+ORD-10804,CUST-1053,2026-03-30,Fitness,2,1483.49,Cash on Delivery,Delivered
+ORD-10805,CUST-1151,2026-06-25,Home & Kitchen,1,4171.61,UPI,Returned
+ORD-10806,CUST-1144,2026-09-26,Electronics,1,700.76,Credit Card,Delivered
+ORD-10807,CUST-1057,2026-03-14,Books,2,4371.06,Credit Card,Delivered
+ORD-10808,CUST-1039,2026-09-02,Home & Kitchen,2,2646.18,UPI,Delivered
+ORD-10809,CUST-1109,2026-03-18,Apparel,1,1693.73,Net Banking,Delivered
+ORD-10810,CUST-1181,2026-06-08,Electronics,1,1546.03,Cash on Delivery,Delivered
+ORD-10811,CUST-1042,2026-04-08,Apparel,4,2330.45,Debit Card,Delivered
+ORD-10812,CUST-1186,2026-04-12,Electronics,1,4995.53,UPI,Delivered
+ORD-10813,CUST-1167,2026-05-12,Books,1,1335.54,Cash on Delivery,Delivered
+ORD-10814,CUST-1142,2026-04-12,Books,2,785.12,Cash on Delivery,Delivered
+ORD-10815,CUST-1223,2026-01-19,Fitness,1,3049.67,Credit Card,Cancelled
+ORD-10816,CUST-1122,2026-03-23,Apparel,1,2596.15,Debit Card,Delivered
+ORD-10817,CUST-1133,2026-10-06,Electronics,1,2763.72,UPI,Delivered
+ORD-10818,CUST-1163,2026-05-09,Books,2,3434.6,Credit Card,Delivered
+ORD-10819,CUST-1215,2026-03-30,Home & Kitchen,2,1555.58,Credit Card,Delivered
+ORD-10820,CUST-1221,2026-08-01,Books,2,4580.13,Net Banking,Delivered
+ORD-10821,CUST-1235,2026-05-23,Home & Kitchen,4,2347.66,Cash on Delivery,Delivered
+ORD-10822,CUST-1075,2026-03-06,Electronics,2,906.71,UPI,Delivered
+ORD-10823,CUST-1146,2026-03-17,Books,1,3788.8,UPI,Delivered
+ORD-10824,CUST-1239,2026-07-18,Books,1,3322.59,UPI,Delivered
+ORD-10825,CUST-1076,2026-05-23,Electronics,2,1783.99,Credit Card,Delivered
+ORD-10826,CUST-1009,2026-04-03,Books,2,3221.14,Net Banking,Delivered
+ORD-10827,CUST-1074,2026-08-12,Home & Kitchen,2,1333.35,Debit Card,Delivered
+ORD-10828,CUST-1186,2026-10-18,Books,2,2390.74,Credit Card,Delivered
+ORD-10829,CUST-1236,2026-04-12,Apparel,1,4527.24,Debit Card,Delivered
+ORD-10830,CUST-1145,2026-09-24,Fitness,1,927.61,Net Banking,Delivered
+ORD-10831,CUST-1230,2026-04-20,Home & Kitchen,1,2117.47,Cash on Delivery,Delivered
+ORD-10832,CUST-1007,2026-09-22,Apparel,1,4159.37,UPI,Delivered
+ORD-10833,CUST-1174,2026-01-03,Electronics,1,4856.61,Debit Card,Returned
+ORD-10834,CUST-1141,2026-03-26,Home & Kitchen,2,2433.45,Credit Card,Delivered
+ORD-10835,CUST-1168,2026-10-09,Fitness,2,2682.9,Debit Card,Delivered
+ORD-10836,CUST-1170,2026-10-31,Fitness,1,2989.21,Cash on Delivery,Delivered
+ORD-10837,CUST-1137,2026-04-27,Electronics,1,4682.04,UPI,Delivered
+ORD-10838,CUST-1178,2026-08-09,Electronics,1,4333.57,Debit Card,Delivered
+ORD-10839,CUST-1027,2026-06-03,Home & Kitchen,1,1101.83,Cash on Delivery,Delivered
+ORD-10840,CUST-1122,2026-06-02,Books,2,2352.76,Credit Card,Delivered
+ORD-10841,CUST-1194,2026-01-12,Electronics,2,2480.8,Net Banking,Cancelled
+ORD-10842,CUST-1005,2026-05-13,Books,2,4008.75,Credit Card,Delivered
+ORD-10843,CUST-1029,2026-10-31,Apparel,2,3133.6,UPI,Delivered
+ORD-10844,CUST-1165,2026-10-20,Fitness,2,3374.84,Credit Card,Delivered
+ORD-10845,CUST-1166,2026-10-27,Books,1,4991.54,Credit Card,Delivered
+ORD-10846,CUST-1083,2026-08-16,Fitness,1,652.31,Credit Card,Delivered
+ORD-10847,CUST-1136,2026-09-28,Books,1,1348.15,Credit Card,Delivered
+ORD-10848,CUST-1240,2026-02-12,Apparel,4,2217.11,UPI,Delivered
+ORD-10849,CUST-1109,2026-10-29,Electronics,1,1934.58,Cash on Delivery,Delivered
+ORD-10850,CUST-1065,2026-01-21,Apparel,1,401.73,Debit Card,Delivered
+ORD-10851,CUST-1086,2026-04-17,Electronics,3,731.35,Net Banking,Delivered
+ORD-10852,CUST-1244,2026-10-30,Electronics,3,3500.48,Debit Card,Cancelled
+ORD-10853,CUST-1145,2026-04-27,Fitness,2,4432.82,Debit Card,Delivered
+ORD-10854,CUST-1071,2026-05-04,Apparel,1,2716.87,Net Banking,Delivered
+ORD-10855,CUST-1217,2026-10-08,Books,1,2834.2,UPI,Delivered
+ORD-10856,CUST-1045,2026-10-19,Apparel,1,1498.94,Net Banking,Delivered
+ORD-10857,CUST-1132,2026-07-22,Fitness,1,3909.02,UPI,Delivered
+ORD-10858,CUST-1036,2026-02-20,Electronics,1,3833.43,Debit Card,Delivered
+ORD-10859,CUST-1070,2026-09-28,Fitness,1,3065.32,UPI,Delivered
+ORD-10860,CUST-1159,2026-10-04,Home & Kitchen,3,1299.52,Cash on Delivery,Delivered
+ORD-10861,CUST-1019,2026-05-21,Home & Kitchen,1,755.99,Net Banking,Delivered
+ORD-10862,CUST-1189,2026-10-02,Books,2,601.92,Cash on Delivery,Delivered
+ORD-10863,CUST-1108,2026-10-17,Fitness,2,3085.67,Debit Card,Delivered
+ORD-10864,CUST-1182,2026-02-21,Books,1,4177.67,Net Banking,Delivered
+ORD-10865,CUST-1167,2026-01-27,Books,2,4334.15,Debit Card,Cancelled
+ORD-10866,CUST-1091,2026-06-06,Home & Kitchen,1,2479.02,Cash on Delivery,Delivered
+ORD-10867,CUST-1202,2026-08-27,Books,1,3986.08,Debit Card,Cancelled
+ORD-10868,CUST-1090,2026-06-05,Home & Kitchen,2,4750.34,Net Banking,Delivered
+ORD-10869,CUST-1019,2026-10-18,Electronics,1,1593.3,Net Banking,Delivered
+ORD-10870,CUST-1039,2026-05-16,Fitness,4,2170.41,Debit Card,Delivered
+ORD-10871,CUST-1126,2026-05-24,Books,1,4677.95,Net Banking,Delivered
+ORD-10872,CUST-1195,2026-04-16,Home & Kitchen,2,1889.69,Net Banking,Delivered
+ORD-10873,CUST-1173,2026-06-07,Apparel,1,4595.22,Debit Card,Delivered
+ORD-10874,CUST-1141,2026-05-26,Books,1,4910.91,Cash on Delivery,Delivered
+ORD-10875,CUST-1242,2026-01-02,Electronics,1,3410.51,Net Banking,Returned
+ORD-10876,CUST-1220,2026-03-18,Electronics,2,4139.38,Net Banking,Delivered
+ORD-10877,CUST-1126,2026-05-12,Apparel,3,3822.86,Net Banking,Delivered
+ORD-10878,CUST-1058,2026-03-31,Home & Kitchen,3,3587.81,Net Banking,Delivered
+ORD-10879,CUST-1148,2026-09-20,Books,1,1742.58,Debit Card,Delivered
+ORD-10880,CUST-1220,2026-04-18,Home & Kitchen,2,568.34,Cash on Delivery,Delivered
+ORD-10881,CUST-1200,2026-03-15,Electronics,2,1912.34,Cash on Delivery,Delivered
+ORD-10882,CUST-1061,2026-02-08,Home & Kitchen,2,3434.6,UPI,Delivered
+ORD-10883,CUST-1127,2026-06-08,Electronics,1,781.89,Net Banking,Delivered
+ORD-10884,CUST-1105,2026-03-12,Home & Kitchen,2,356.01,Net Banking,Delivered
+ORD-10885,CUST-1167,2026-08-29,Apparel,3,956.55,UPI,Returned
+ORD-10886,CUST-1001,2026-10-25,Fitness,1,3663.96,Cash on Delivery,Delivered
+ORD-10887,CUST-1131,2026-02-05,Apparel,3,4872.13,Credit Card,Delivered
+ORD-10888,CUST-1205,2026-03-25,Apparel,2,4920.4,Credit Card,Delivered
+ORD-10889,CUST-1092,2026-09-20,Fitness,1,2621.7,Cash on Delivery,Returned
+ORD-10890,CUST-1190,2026-06-21,Fitness,1,4385.96,Net Banking,Delivered
+ORD-10891,CUST-1249,2026-06-22,Books,1,3763.08,Credit Card,Cancelled
+ORD-10892,CUST-1191,2026-02-16,Books,2,2654.89,Debit Card,Cancelled
+ORD-10893,CUST-1113,2026-05-21,Apparel,3,2991.97,Debit Card,Cancelled
+ORD-10894,CUST-1153,2026-04-28,Apparel,1,944.97,UPI,Delivered
+ORD-10895,CUST-1056,2026-10-04,Electronics,3,4707.01,Cash on Delivery,Delivered
+ORD-10896,CUST-1161,2026-08-02,Electronics,3,1954.07,Cash on Delivery,Delivered
+ORD-10897,CUST-1166,2026-08-08,Books,1,2396.9,Credit Card,Delivered
+ORD-10898,CUST-1117,2026-01-26,Books,3,3456.8,Net Banking,Delivered
+ORD-10899,CUST-1134,2026-01-09,Electronics,4,1869.34,Cash on Delivery,Delivered
+ORD-10900,CUST-1058,2026-09-28,Electronics,2,1495.02,Credit Card,Delivered
+ORD-10901,CUST-1044,2026-01-10,Home & Kitchen,2,3265.93,Credit Card,Delivered
+ORD-10902,CUST-1173,2026-05-01,Home & Kitchen,4,417.43,Cash on Delivery,Delivered
+ORD-10903,CUST-1160,2026-05-05,Electronics,2,3687.41,Credit Card,Delivered
+ORD-10904,CUST-1173,2026-06-19,Home & Kitchen,1,2715.91,UPI,Delivered
+ORD-10905,CUST-1061,2026-03-13,Fitness,3,3147.04,UPI,Delivered
+ORD-10906,CUST-1047,2026-06-01,Books,2,3269.84,Cash on Delivery,Delivered
+ORD-10907,CUST-1149,2026-07-27,Books,2,2777.14,Net Banking,Cancelled
+ORD-10908,CUST-1080,2026-02-18,Electronics,1,3037.91,UPI,Delivered
+ORD-10909,CUST-1118,2026-06-03,Apparel,2,3513.8,UPI,Delivered
+ORD-10910,CUST-1213,2026-10-20,Electronics,1,3839.66,Cash on Delivery,Delivered
+ORD-10911,CUST-1203,2026-03-09,Home & Kitchen,3,3719.03,Debit Card,Delivered
+ORD-10912,CUST-1229,2026-02-19,Apparel,1,4387.2,Credit Card,Delivered
+ORD-10913,CUST-1164,2026-06-01,Home & Kitchen,1,1190.38,UPI,Delivered
+ORD-10914,CUST-1227,2026-01-19,Fitness,1,2185.4,Debit Card,Delivered
+ORD-10915,CUST-1147,2026-04-10,Home & Kitchen,1,4754.64,Net Banking,Delivered
+ORD-10916,CUST-1020,2026-03-01,Fitness,2,2163.98,Debit Card,Delivered
+ORD-10917,CUST-1185,2026-06-16,Fitness,3,886.89,Cash on Delivery,Delivered
+ORD-10918,CUST-1146,2026-07-21,Home & Kitchen,3,2769.59,Net Banking,Delivered
+ORD-10919,CUST-1047,2026-05-26,Home & Kitchen,1,814.61,Net Banking,Delivered
+ORD-10920,CUST-1233,2026-06-13,Fitness,1,1253.41,Debit Card,Delivered
+ORD-10921,CUST-1049,2026-08-30,Apparel,3,4992.1,Cash on Delivery,Delivered
+ORD-10922,CUST-1014,2026-03-10,Fitness,3,2844.4,UPI,Delivered
+ORD-10923,CUST-1143,2026-06-24,Books,1,1635.07,Debit Card,Cancelled
+ORD-10924,CUST-1159,2026-02-18,Fitness,1,4975.44,UPI,Delivered
+ORD-10925,CUST-1001,2026-04-18,Apparel,1,4842.83,Debit Card,Delivered
+ORD-10926,CUST-1117,2026-08-14,Books,3,2371.47,UPI,Cancelled
+ORD-10927,CUST-1054,2026-06-10,Electronics,2,1523.89,Debit Card,Delivered
+ORD-10928,CUST-1118,2026-04-29,Electronics,1,4240.48,Net Banking,Delivered
+ORD-10929,CUST-1003,2026-05-29,Apparel,1,3663.42,Credit Card,Returned
+ORD-10930,CUST-1144,2026-05-30,Fitness,3,3528.62,Net Banking,Delivered
+ORD-10931,CUST-1215,2026-10-20,Home & Kitchen,1,4497.63,UPI,Delivered
+ORD-10932,CUST-1185,2026-05-23,Apparel,1,3540.26,Cash on Delivery,Delivered
+ORD-10933,CUST-1203,2026-06-09,Books,2,1633.85,Net Banking,Delivered
+ORD-10934,CUST-1012,2026-01-11,Books,1,3561.16,Credit Card,Delivered
+ORD-10935,CUST-1074,2026-05-18,Electronics,1,1737.32,UPI,Cancelled
+ORD-10936,CUST-1224,2026-03-19,Books,3,3868.42,Net Banking,Delivered
+ORD-10937,CUST-1016,2026-03-18,Apparel,3,3212.81,Debit Card,Delivered
+ORD-10938,CUST-1200,2026-09-11,Books,3,663.83,Cash on Delivery,Returned
+ORD-10939,CUST-1102,2026-09-15,Apparel,3,2710.33,UPI,Delivered
+ORD-10940,CUST-1204,2026-10-18,Home & Kitchen,2,1913.51,Net Banking,Delivered
+ORD-10941,CUST-1152,2026-09-20,Electronics,3,1844.28,UPI,Delivered
+ORD-10942,CUST-1156,2026-03-26,Books,1,3130.6,Debit Card,Delivered
+ORD-10943,CUST-1117,2026-05-26,Apparel,2,1814.93,Credit Card,Delivered
+ORD-10944,CUST-1008,2026-02-11,Fitness,4,3951.4,Net Banking,Delivered
+ORD-10945,CUST-1122,2026-05-05,Electronics,1,632.72,UPI,Returned
+ORD-10946,CUST-1092,2026-06-16,Home & Kitchen,1,3403.82,UPI,Cancelled
+ORD-10947,CUST-1164,2026-08-29,Apparel,1,4103.22,UPI,Delivered
+ORD-10948,CUST-1090,2026-10-07,Home & Kitchen,1,3462.31,Credit Card,Delivered
+ORD-10949,CUST-1136,2026-07-07,Home & Kitchen,1,2636.98,UPI,Delivered
+ORD-10950,CUST-1186,2026-10-29,Books,3,4766.44,Cash on Delivery,Delivered
+ORD-10951,CUST-1060,2026-01-19,Books,4,1709.71,Cash on Delivery,Delivered
+ORD-10952,CUST-1178,2026-03-09,Apparel,1,390.09,UPI,Delivered
+ORD-10953,CUST-1028,2026-08-06,Fitness,1,2330.35,Cash on Delivery,Delivered
+ORD-10954,CUST-1220,2026-04-12,Apparel,1,455.16,Net Banking,Delivered
+ORD-10955,CUST-1101,2026-02-11,Fitness,3,4783.5,Cash on Delivery,Delivered
+ORD-10956,CUST-1041,2026-10-15,Home & Kitchen,1,1286.61,UPI,Delivered
+ORD-10957,CUST-1228,2026-06-16,Electronics,1,4007.96,Debit Card,Delivered
+ORD-10958,CUST-1192,2026-04-19,Apparel,1,3940.49,Net Banking,Delivered
+ORD-10959,CUST-1155,2026-02-05,Apparel,1,1323.33,Credit Card,Delivered
+ORD-10960,CUST-1246,2026-08-20,Fitness,1,3219.76,UPI,Delivered
+ORD-10961,CUST-1191,2026-08-17,Home & Kitchen,3,525.97,Credit Card,Delivered
+ORD-10962,CUST-1145,2026-06-13,Home & Kitchen,2,2572.8,Debit Card,Delivered
+ORD-10963,CUST-1201,2026-03-14,Fitness,2,368.84,Credit Card,Delivered
+ORD-10964,CUST-1161,2026-05-16,Home & Kitchen,1,4629.38,UPI,Delivered
+ORD-10965,CUST-1245,2026-03-11,Books,2,4887.6,UPI,Delivered
+ORD-10966,CUST-1212,2026-07-15,Electronics,2,1344.73,Debit Card,Delivered
+ORD-10967,CUST-1205,2026-09-26,Apparel,1,1278.1,UPI,Delivered
+ORD-10968,CUST-1220,2026-02-18,Electronics,2,3842.48,Debit Card,Returned
+ORD-10969,CUST-1240,2026-05-10,Apparel,1,1490.88,Debit Card,Delivered
+ORD-10970,CUST-1157,2026-01-05,Books,3,4506.86,UPI,Returned
+ORD-10971,CUST-1141,2026-01-27,Home & Kitchen,1,2997.47,Cash on Delivery,Delivered
+ORD-10972,CUST-1046,2026-06-09,Fitness,4,1948.65,Debit Card,Delivered
+ORD-10973,CUST-1035,2026-05-29,Books,1,4213.66,UPI,Delivered
+ORD-10974,CUST-1134,2026-09-21,Electronics,2,2619.01,Cash on Delivery,Delivered
+ORD-10975,CUST-1082,2026-08-18,Fitness,2,4584.67,Debit Card,Delivered
+ORD-10976,CUST-1115,2026-07-19,Home & Kitchen,2,4661.67,Cash on Delivery,Delivered
+ORD-10977,CUST-1197,2026-02-19,Books,1,1077.47,Net Banking,Delivered
+ORD-10978,CUST-1047,2026-03-08,Fitness,1,310.92,Net Banking,Delivered
+ORD-10979,CUST-1153,2026-10-27,Books,2,4924.48,Cash on Delivery,Delivered
+ORD-10980,CUST-1194,2026-02-27,Books,1,4558.85,Debit Card,Delivered
+ORD-10981,CUST-1010,2026-09-16,Home & Kitchen,1,560.59,UPI,Delivered
+ORD-10982,CUST-1056,2026-05-10,Apparel,2,4215.26,Credit Card,Delivered
+ORD-10983,CUST-1030,2026-08-03,Fitness,2,2451.68,UPI,Delivered
+ORD-10984,CUST-1242,2026-06-21,Home & Kitchen,1,1517.12,Credit Card,Cancelled
+ORD-10985,CUST-1109,2026-09-15,Books,1,4430.11,Credit Card,Delivered
+ORD-10986,CUST-1005,2026-04-12,Home & Kitchen,1,1224.34,Debit Card,Delivered
+ORD-10987,CUST-1119,2026-07-28,Apparel,2,4752.31,Cash on Delivery,Delivered
+ORD-10988,CUST-1248,2026-10-18,Fitness,2,1266.42,UPI,Delivered
+ORD-10989,CUST-1033,2026-10-13,Apparel,3,3184.31,Cash on Delivery,Delivered
+ORD-10990,CUST-1118,2026-04-26,Electronics,4,1348.51,Net Banking,Returned
+ORD-10991,CUST-1065,2026-09-21,Fitness,1,2864.64,Debit Card,Delivered
+ORD-10992,CUST-1146,2026-05-30,Apparel,1,3514.68,Debit Card,Delivered
+ORD-10993,CUST-1224,2026-10-27,Books,1,1194.07,Net Banking,Returned
+ORD-10994,CUST-1239,2026-02-05,Fitness,1,2748.16,UPI,Cancelled
+ORD-10995,CUST-1177,2026-10-14,Fitness,3,2504.58,Net Banking,Delivered
+ORD-10996,CUST-1011,2026-10-30,Home & Kitchen,2,633.88,UPI,Delivered
+ORD-10997,CUST-1085,2026-07-27,Books,1,4146.05,Credit Card,Delivered
+ORD-10998,CUST-1026,2026-04-16,Electronics,1,1877.71,Debit Card,Delivered
+ORD-10999,CUST-1063,2026-06-07,Apparel,2,3000.54,UPI,Delivered
+ORD-11000,CUST-1217,2026-05-01,Home & Kitchen,2,2719.49,Cash on Delivery,Delivered
+ORD-11001,CUST-1086,2026-02-24,Apparel,1,2712.32,Cash on Delivery,Cancelled
+ORD-11002,CUST-1059,2026-01-12,Electronics,4,803.95,Debit Card,Delivered
+ORD-11003,CUST-1027,2026-05-25,Electronics,2,2290.37,Net Banking,Delivered
+ORD-11004,CUST-1177,2026-05-16,Fitness,1,2426.12,Net Banking,Delivered
+ORD-11005,CUST-1205,2026-01-03,Electronics,3,3748.12,UPI,Delivered
+ORD-11006,CUST-1161,2026-05-24,Apparel,1,4248.09,Net Banking,Delivered
+ORD-11007,CUST-1098,2026-01-30,Books,3,2861.42,Debit Card,Cancelled
+ORD-11008,CUST-1105,2026-08-25,Books,4,707.88,UPI,Delivered
+ORD-11009,CUST-1099,2026-10-06,Fitness,2,1413.19,Credit Card,Delivered
+ORD-11010,CUST-1129,2026-04-25,Apparel,2,1075.19,Net Banking,Delivered
+ORD-11011,CUST-1149,2026-04-14,Apparel,1,885.69,Net Banking,Delivered
+ORD-11012,CUST-1240,2026-04-28,Electronics,3,2019.73,UPI,Delivered
+ORD-11013,CUST-1055,2026-01-05,Apparel,2,1378.15,Cash on Delivery,Delivered
+ORD-11014,CUST-1006,2026-09-05,Home & Kitchen,2,1326.02,Net Banking,Delivered
+ORD-11015,CUST-1220,2026-05-01,Electronics,3,557.06,Debit Card,Delivered
+ORD-11016,CUST-1209,2026-10-13,Home & Kitchen,4,383.05,Net Banking,Delivered
+ORD-11017,CUST-1197,2026-05-29,Fitness,3,783.01,Credit Card,Delivered
+ORD-11018,CUST-1095,2026-03-25,Books,1,1109.33,Net Banking,Delivered
+ORD-11019,CUST-1133,2026-08-19,Fitness,4,2325.62,Cash on Delivery,Delivered
+ORD-11020,CUST-1102,2026-10-15,Books,2,2699.45,Net Banking,Delivered
+ORD-11021,CUST-1003,2026-06-10,Fitness,3,960.78,UPI,Delivered
+ORD-11022,CUST-1181,2026-09-29,Apparel,2,2296.48,Net Banking,Delivered
+ORD-11023,CUST-1023,2026-02-07,Home & Kitchen,1,1906.22,Cash on Delivery,Delivered
+ORD-11024,CUST-1229,2026-08-14,Books,1,1162.09,UPI,Delivered
+ORD-11025,CUST-1053,2026-05-22,Electronics,2,332.15,Debit Card,Returned
+ORD-11026,CUST-1165,2026-10-19,Home & Kitchen,2,2494.98,UPI,Delivered
+ORD-11027,CUST-1202,2026-05-31,Electronics,1,3522.56,Credit Card,Delivered
+ORD-11028,CUST-1202,2026-04-24,Home & Kitchen,2,1363.5,UPI,Delivered
+ORD-11029,CUST-1083,2026-08-25,Home & Kitchen,1,919.49,Debit Card,Cancelled
+ORD-11030,CUST-1145,2026-03-07,Fitness,3,4469.1,Net Banking,Delivered
+ORD-11031,CUST-1085,2026-09-15,Books,1,1592.62,UPI,Delivered
+ORD-11032,CUST-1078,2026-09-06,Books,1,1350.98,UPI,Cancelled
+ORD-11033,CUST-1201,2026-06-29,Home & Kitchen,1,4328.36,UPI,Cancelled
+ORD-11034,CUST-1110,2026-07-09,Apparel,1,4140.4,UPI,Delivered
+ORD-11035,CUST-1001,2026-06-03,Apparel,1,2407.23,Debit Card,Delivered
+ORD-11036,CUST-1051,2026-07-15,Electronics,1,2599.42,Cash on Delivery,Delivered
+ORD-11037,CUST-1173,2026-09-19,Electronics,1,1323.42,Cash on Delivery,Delivered
+ORD-11038,CUST-1205,2026-05-23,Fitness,3,668.02,UPI,Delivered
+ORD-11039,CUST-1004,2026-04-11,Home & Kitchen,3,2995.13,Debit Card,Delivered
+ORD-11040,CUST-1190,2026-09-01,Electronics,1,762.22,Debit Card,Delivered
+ORD-11041,CUST-1193,2026-01-12,Electronics,4,2411.59,UPI,Delivered
+ORD-11042,CUST-1113,2026-08-27,Home & Kitchen,1,4720.34,Credit Card,Delivered
+ORD-11043,CUST-1232,2026-02-18,Fitness,2,4778.32,UPI,Returned
+ORD-11044,CUST-1032,2026-02-11,Electronics,2,1424.86,Credit Card,Delivered
+ORD-11045,CUST-1034,2026-06-15,Fitness,1,3233.33,UPI,Delivered
+ORD-11046,CUST-1092,2026-03-23,Books,1,2528.16,Credit Card,Delivered
+ORD-11047,CUST-1095,2026-10-18,Fitness,1,4415.72,Credit Card,Returned
+ORD-11048,CUST-1072,2026-06-07,Apparel,1,1575.73,UPI,Delivered
+ORD-11049,CUST-1039,2026-08-04,Apparel,2,317.4,Credit Card,Delivered
+ORD-11050,CUST-1154,2026-06-07,Fitness,1,1064.04,Net Banking,Delivered
+ORD-11051,CUST-1162,2026-05-14,Apparel,1,1942.76,Cash on Delivery,Delivered
+ORD-11052,CUST-1182,2026-03-08,Books,1,1783.89,Debit Card,Cancelled
+ORD-11053,CUST-1118,2026-01-07,Home & Kitchen,1,4019.41,Credit Card,Delivered
+ORD-11054,CUST-1003,2026-01-14,Apparel,2,3498.64,Credit Card,Delivered
+ORD-11055,CUST-1123,2026-03-14,Apparel,1,1707.91,Debit Card,Delivered
+ORD-11056,CUST-1050,2026-06-12,Fitness,3,2451.4,Credit Card,Delivered
+ORD-11057,CUST-1012,2026-03-07,Books,1,749.13,Debit Card,Delivered
+ORD-11058,CUST-1193,2026-05-10,Home & Kitchen,1,4521.29,UPI,Delivered
+ORD-11059,CUST-1054,2026-07-25,Fitness,2,4696.5,Net Banking,Delivered
+ORD-11060,CUST-1236,2026-10-03,Fitness,1,4905.08,Net Banking,Delivered
+ORD-11061,CUST-1133,2026-09-13,Books,2,4382.2,Cash on Delivery,Delivered
+ORD-11062,CUST-1222,2026-09-23,Home & Kitchen,2,1117.62,Credit Card,Delivered
+ORD-11063,CUST-1222,2026-01-25,Books,1,517.12,Cash on Delivery,Delivered
+ORD-11064,CUST-1057,2026-10-08,Home & Kitchen,1,3024.1,UPI,Delivered
+ORD-11065,CUST-1145,2026-09-10,Books,1,4589.24,Net Banking,Delivered
+ORD-11066,CUST-1112,2026-10-16,Fitness,1,1133.55,UPI,Delivered
+ORD-11067,CUST-1047,2026-06-13,Fitness,1,333.1,UPI,Cancelled
+ORD-11068,CUST-1151,2026-04-05,Electronics,1,4085.83,Credit Card,Delivered
+ORD-11069,CUST-1207,2026-09-27,Apparel,1,660.94,UPI,Delivered
+ORD-11070,CUST-1229,2026-04-20,Books,2,2244.42,Net Banking,Cancelled
+ORD-11071,CUST-1085,2026-08-26,Electronics,2,3490.77,Cash on Delivery,Cancelled
+ORD-11072,CUST-1142,2026-01-25,Apparel,2,1412.95,Net Banking,Cancelled
+ORD-11073,CUST-1066,2026-05-21,Books,1,694.62,Credit Card,Delivered
+ORD-11074,CUST-1075,2026-04-27,Home & Kitchen,1,3919.1,Net Banking,Delivered
+ORD-11075,CUST-1179,2026-01-25,Apparel,3,3261.82,Debit Card,Delivered
+ORD-11076,CUST-1103,2026-03-20,Fitness,2,4945.91,Cash on Delivery,Delivered
+ORD-11077,CUST-1166,2026-03-09,Electronics,3,1918.25,Debit Card,Delivered
+ORD-11078,CUST-1192,2026-06-22,Apparel,1,590.28,Debit Card,Cancelled
+ORD-11079,CUST-1226,2026-01-12,Apparel,2,3751.45,Credit Card,Delivered
+ORD-11080,CUST-1038,2026-10-15,Fitness,2,2752.15,UPI,Delivered
+ORD-11081,CUST-1050,2026-05-08,Books,1,1302.06,Debit Card,Cancelled
+ORD-11082,CUST-1098,2026-04-06,Home & Kitchen,1,3974.13,Net Banking,Delivered
+ORD-11083,CUST-1082,2026-04-02,Fitness,2,1257.65,UPI,Delivered
+ORD-11084,CUST-1030,2026-05-21,Home & Kitchen,1,1525.11,Net Banking,Delivered
+ORD-11085,CUST-1079,2026-01-31,Books,1,734.88,Net Banking,Delivered
+ORD-11086,CUST-1091,2026-01-20,Apparel,2,2177.33,UPI,Delivered
+ORD-11087,CUST-1179,2026-05-26,Home & Kitchen,3,2268.97,UPI,Returned
+ORD-11088,CUST-1191,2026-06-09,Electronics,1,2718.44,Net Banking,Cancelled
+ORD-11089,CUST-1226,2026-02-12,Electronics,1,3632.13,Credit Card,Cancelled
+ORD-11090,CUST-1052,2026-09-11,Fitness,1,4558.67,Cash on Delivery,Delivered
+ORD-11091,CUST-1249,2026-05-10,Books,2,947.35,Cash on Delivery,Cancelled
+ORD-11092,CUST-1166,2026-03-01,Fitness,1,555.44,Credit Card,Delivered
+ORD-11093,CUST-1225,2026-05-31,Fitness,4,387.1,UPI,Delivered
+ORD-11094,CUST-1216,2026-10-14,Fitness,1,975.02,Net Banking,Delivered
+ORD-11095,CUST-1079,2026-01-05,Electronics,1,3392.36,Cash on Delivery,Delivered
+ORD-11096,CUST-1030,2026-09-23,Electronics,2,3719.14,Net Banking,Delivered
+ORD-11097,CUST-1247,2026-05-10,Fitness,3,3996.58,Credit Card,Delivered
+ORD-11098,CUST-1106,2026-09-24,Electronics,1,1445.43,Net Banking,Delivered
+ORD-11099,CUST-1051,2026-06-27,Books,1,1737.71,Credit Card,Delivered
+ORD-11100,CUST-1081,2026-09-10,Fitness,4,2570.73,UPI,Delivered
+ORD-11101,CUST-1133,2026-02-25,Electronics,1,596.96,Credit Card,Delivered
+ORD-11102,CUST-1029,2026-03-24,Home & Kitchen,3,3172.37,Credit Card,Delivered
+ORD-11103,CUST-1132,2026-04-09,Fitness,1,4923.55,Cash on Delivery,Delivered
+ORD-11104,CUST-1138,2026-05-29,Fitness,2,1995.79,Net Banking,Delivered
+ORD-11105,CUST-1184,2026-06-05,Books,2,3838.38,Cash on Delivery,Delivered
+ORD-11106,CUST-1145,2026-07-09,Apparel,1,2650.16,Debit Card,Delivered
+ORD-11107,CUST-1074,2026-09-20,Apparel,3,900.72,Credit Card,Delivered
+ORD-11108,CUST-1017,2026-03-21,Books,1,3036.52,Debit Card,Returned
+ORD-11109,CUST-1084,2026-09-09,Books,1,1709.41,Cash on Delivery,Delivered
+ORD-11110,CUST-1216,2026-04-07,Books,2,461.7,Net Banking,Delivered
+ORD-11111,CUST-1069,2026-09-17,Apparel,1,3284.17,Cash on Delivery,Delivered
+ORD-11112,CUST-1034,2026-09-17,Books,2,4336.98,Net Banking,Delivered
+ORD-11113,CUST-1006,2026-04-13,Electronics,1,1920.42,Net Banking,Delivered
+ORD-11114,CUST-1053,2026-02-09,Fitness,1,2134.39,UPI,Delivered
+ORD-11115,CUST-1194,2026-09-30,Fitness,1,4487.8,Credit Card,Delivered
+ORD-11116,CUST-1205,2026-04-11,Home & Kitchen,1,4123.96,Cash on Delivery,Returned
+ORD-11117,CUST-1126,2026-08-09,Home & Kitchen,1,3660.28,Net Banking,Delivered
+ORD-11118,CUST-1235,2026-05-04,Fitness,2,1469.35,Cash on Delivery,Delivered
+ORD-11119,CUST-1043,2026-08-19,Electronics,3,4578.02,Cash on Delivery,Delivered
+ORD-11120,CUST-1240,2026-06-27,Apparel,3,1025.75,Net Banking,Delivered
+ORD-11121,CUST-1203,2026-03-04,Apparel,1,3245.82,Debit Card,Cancelled
+ORD-11122,CUST-1115,2026-04-26,Electronics,1,435.37,Credit Card,Delivered
+ORD-11123,CUST-1111,2026-07-10,Apparel,1,3325.48,Credit Card,Delivered
+ORD-11124,CUST-1249,2026-03-03,Books,1,1602.58,UPI,Delivered
+ORD-11125,CUST-1151,2026-09-13,Fitness,2,2413.48,UPI,Delivered
+ORD-11126,CUST-1183,2026-01-07,Fitness,1,1922.74,UPI,Delivered
+ORD-11127,CUST-1080,2026-06-04,Electronics,1,1111.96,Credit Card,Delivered
+ORD-11128,CUST-1095,2026-04-02,Apparel,3,3223.31,Debit Card,Returned
+ORD-11129,CUST-1203,2026-01-14,Home & Kitchen,1,4445.29,Credit Card,Returned
+ORD-11130,CUST-1118,2026-08-17,Home & Kitchen,1,4807.7,Credit Card,Delivered
+ORD-11131,CUST-1144,2026-03-27,Apparel,1,1204.03,Credit Card,Delivered
+ORD-11132,CUST-1008,2026-05-13,Home & Kitchen,1,3671.65,Credit Card,Delivered
+ORD-11133,CUST-1132,2026-07-02,Electronics,3,3422.4,Debit Card,Returned
+ORD-11134,CUST-1104,2026-03-03,Electronics,1,1913.88,UPI,Delivered
+ORD-11135,CUST-1132,2026-08-07,Apparel,1,389.77,Cash on Delivery,Delivered
+ORD-11136,CUST-1184,2026-09-03,Home & Kitchen,1,3542.02,UPI,Delivered
+ORD-11137,CUST-1025,2026-08-18,Electronics,1,4743.83,UPI,Delivered
+ORD-11138,CUST-1195,2026-03-20,Electronics,1,3270.96,Cash on Delivery,Delivered
+ORD-11139,CUST-1096,2026-05-29,Books,3,2345.88,Credit Card,Delivered
+ORD-11140,CUST-1195,2026-05-18,Books,3,2768.22,Debit Card,Returned
+ORD-11141,CUST-1155,2026-03-06,Electronics,2,1238.26,Debit Card,Delivered
+ORD-11142,CUST-1093,2026-01-13,Apparel,1,3827.56,UPI,Delivered
+ORD-11143,CUST-1160,2026-08-01,Fitness,3,3808.17,Cash on Delivery,Delivered
+ORD-11144,CUST-1178,2026-08-30,Fitness,2,983.93,Net Banking,Delivered
+ORD-11145,CUST-1061,2026-08-01,Electronics,1,4426.5,Credit Card,Delivered
+ORD-11146,CUST-1122,2026-06-30,Electronics,2,1565.19,UPI,Delivered
+ORD-11147,CUST-1051,2026-06-22,Electronics,1,4916.6,Debit Card,Delivered
+ORD-11148,CUST-1147,2026-06-09,Apparel,1,2099.64,Cash on Delivery,Returned
+ORD-11149,CUST-1021,2026-06-13,Books,2,1136.06,Cash on Delivery,Delivered
+ORD-11150,CUST-1005,2026-07-07,Electronics,1,1953.08,UPI,Delivered
+ORD-11151,CUST-1210,2026-07-10,Electronics,2,2368.85,Net Banking,Delivered
+ORD-11152,CUST-1092,2026-09-13,Home & Kitchen,1,625.75,Debit Card,Delivered
+ORD-11153,CUST-1170,2026-07-02,Apparel,3,3017.63,UPI,Returned
+ORD-11154,CUST-1061,2026-04-27,Electronics,4,3108.87,Net Banking,Delivered
+ORD-11155,CUST-1022,2026-10-09,Home & Kitchen,3,3772.97,Cash on Delivery,Delivered
+ORD-11156,CUST-1149,2026-07-15,Fitness,1,437.1,Credit Card,Delivered
+ORD-11157,CUST-1070,2026-02-03,Electronics,1,2843.82,Debit Card,Delivered
+ORD-11158,CUST-1001,2026-02-21,Electronics,1,548.66,Debit Card,Delivered
+ORD-11159,CUST-1133,2026-04-22,Home & Kitchen,1,3595.38,Net Banking,Delivered
+ORD-11160,CUST-1233,2026-09-09,Apparel,1,561.92,UPI,Delivered
+ORD-11161,CUST-1012,2026-03-23,Electronics,2,4585.12,Cash on Delivery,Delivered
+ORD-11162,CUST-1090,2026-08-20,Fitness,2,3599.79,Net Banking,Delivered
+ORD-11163,CUST-1046,2026-08-15,Electronics,4,2684.73,Credit Card,Delivered
+ORD-11164,CUST-1034,2026-08-21,Fitness,1,2375.07,Credit Card,Delivered
+ORD-11165,CUST-1177,2026-08-09,Books,1,914.16,Credit Card,Delivered
+ORD-11166,CUST-1078,2026-02-11,Books,1,1667.7,Net Banking,Delivered
+ORD-11167,CUST-1218,2026-01-21,Fitness,3,4384.11,Cash on Delivery,Delivered
+ORD-11168,CUST-1045,2026-02-11,Apparel,2,4550.93,Debit Card,Delivered
+ORD-11169,CUST-1155,2026-04-23,Electronics,3,303.51,UPI,Delivered
+ORD-11170,CUST-1073,2026-04-15,Electronics,3,3092.44,Debit Card,Delivered
+ORD-11171,CUST-1026,2026-07-11,Books,2,3680.71,Cash on Delivery,Delivered
+ORD-11172,CUST-1249,2026-01-17,Fitness,1,3208.11,Debit Card,Delivered
+ORD-11173,CUST-1047,2026-04-30,Electronics,1,683.89,Net Banking,Delivered
+ORD-11174,CUST-1121,2026-05-09,Electronics,2,1323.31,Credit Card,Cancelled
+ORD-11175,CUST-1214,2026-05-10,Apparel,1,1476.6,Cash on Delivery,Delivered
+ORD-11176,CUST-1239,2026-03-01,Home & Kitchen,1,4209.11,Cash on Delivery,Delivered
+ORD-11177,CUST-1056,2026-02-17,Books,3,2477.04,Debit Card,Delivered
+ORD-11178,CUST-1094,2026-01-29,Books,4,2588.09,Net Banking,Delivered
+ORD-11179,CUST-1107,2026-04-07,Home & Kitchen,2,4694.0,Debit Card,Delivered
+ORD-11180,CUST-1063,2026-01-10,Electronics,2,3294.3,Debit Card,Delivered
+ORD-11181,CUST-1048,2026-08-30,Apparel,2,4523.74,Cash on Delivery,Delivered
+ORD-11182,CUST-1061,2026-08-20,Apparel,1,2445.59,Debit Card,Cancelled
+ORD-11183,CUST-1081,2026-10-04,Books,1,1002.35,Credit Card,Delivered
+ORD-11184,CUST-1026,2026-10-11,Apparel,2,4670.7,Debit Card,Delivered
+ORD-11185,CUST-1036,2026-07-22,Home & Kitchen,2,2455.91,Credit Card,Delivered
+ORD-11186,CUST-1001,2026-09-04,Electronics,1,1153.67,Cash on Delivery,Delivered
+ORD-11187,CUST-1008,2026-10-17,Home & Kitchen,3,1721.26,Net Banking,Delivered
+ORD-11188,CUST-1113,2026-09-21,Fitness,1,538.77,Credit Card,Delivered
+ORD-11189,CUST-1099,2026-08-02,Books,1,2501.01,Net Banking,Delivered
+ORD-11190,CUST-1180,2026-07-19,Apparel,2,4309.7,Net Banking,Delivered
+ORD-11191,CUST-1207,2026-03-20,Fitness,1,4687.83,Credit Card,Delivered
+ORD-11192,CUST-1047,2026-06-22,Apparel,1,4683.23,Cash on Delivery,Cancelled
+ORD-11193,CUST-1127,2026-03-10,Electronics,1,888.58,UPI,Delivered
+ORD-11194,CUST-1056,2026-03-28,Electronics,2,2095.65,Net Banking,Returned
+ORD-11195,CUST-1214,2026-04-11,Electronics,1,432.68,Net Banking,Delivered
+ORD-11196,CUST-1014,2026-01-08,Apparel,2,4319.28,Cash on Delivery,Delivered
+ORD-11197,CUST-1218,2026-07-19,Fitness,2,1986.15,Cash on Delivery,Delivered
+ORD-11198,CUST-1028,2026-03-28,Electronics,1,3266.25,Debit Card,Delivered
+ORD-11199,CUST-1215,2026-02-12,Fitness,4,3660.02,Cash on Delivery,Delivered
+ORD-11200,CUST-1078,2026-04-19,Apparel,1,2320.27,Net Banking,Delivered
+ORD-11201,CUST-1216,2026-06-01,Fitness,4,1740.28,Credit Card,Returned
+ORD-11202,CUST-1130,2026-01-17,Apparel,2,4822.4,UPI,Delivered
+ORD-11203,CUST-1109,2026-05-13,Apparel,4,4833.09,Debit Card,Delivered
+ORD-11204,CUST-1154,2026-05-28,Books,1,1660.35,Credit Card,Delivered
+ORD-11205,CUST-1014,2026-10-04,Apparel,1,2554.24,UPI,Delivered
+ORD-11206,CUST-1187,2026-08-20,Apparel,1,4872.37,UPI,Delivered
+ORD-11207,CUST-1056,2026-08-16,Home & Kitchen,1,322.88,UPI,Delivered
+ORD-11208,CUST-1115,2026-05-19,Electronics,2,2239.59,Credit Card,Delivered
+ORD-11209,CUST-1007,2026-07-30,Books,1,772.15,Debit Card,Delivered
+ORD-11210,CUST-1003,2026-01-28,Books,2,2693.04,Debit Card,Cancelled
+ORD-11211,CUST-1111,2026-02-20,Books,1,415.95,UPI,Delivered
+ORD-11212,CUST-1151,2026-09-18,Home & Kitchen,1,2212.42,Credit Card,Returned
+ORD-11213,CUST-1238,2026-09-18,Apparel,2,1337.29,UPI,Delivered
+ORD-11214,CUST-1107,2026-01-08,Electronics,1,2806.55,Cash on Delivery,Delivered
+ORD-11215,CUST-1239,2026-05-18,Fitness,2,4981.17,Debit Card,Cancelled
+ORD-11216,CUST-1237,2026-02-07,Apparel,2,4062.52,Net Banking,Delivered
+ORD-11217,CUST-1018,2026-04-21,Home & Kitchen,3,4274.52,UPI,Cancelled
+ORD-11218,CUST-1038,2026-08-08,Apparel,1,3285.75,Cash on Delivery,Delivered
+ORD-11219,CUST-1227,2026-08-11,Apparel,2,495.33,Debit Card,Delivered
+ORD-11220,CUST-1115,2026-05-16,Home & Kitchen,4,1271.95,Credit Card,Delivered
+ORD-11221,CUST-1015,2026-09-13,Books,2,4647.8,Debit Card,Delivered
+ORD-11222,CUST-1192,2026-02-18,Books,1,2020.73,Credit Card,Delivered
+ORD-11223,CUST-1217,2026-10-19,Electronics,2,787.09,Credit Card,Delivered
+ORD-11224,CUST-1119,2026-03-19,Electronics,2,3601.31,UPI,Delivered
+ORD-11225,CUST-1229,2026-04-15,Books,2,1707.45,UPI,Cancelled
+ORD-11226,CUST-1028,2026-06-18,Fitness,1,1563.63,Debit Card,Delivered
+ORD-11227,CUST-1202,2026-08-05,Apparel,1,4990.49,Cash on Delivery,Delivered
+ORD-11228,CUST-1039,2026-04-29,Fitness,3,4333.25,Debit Card,Delivered
+ORD-11229,CUST-1185,2026-07-09,Apparel,1,2217.31,Net Banking,Delivered
+ORD-11230,CUST-1017,2026-09-12,Books,2,4907.23,Credit Card,Returned
+ORD-11231,CUST-1231,2026-09-23,Electronics,1,3355.53,Credit Card,Delivered
+ORD-11232,CUST-1086,2026-05-29,Electronics,2,3787.51,UPI,Delivered
+ORD-11233,CUST-1218,2026-06-13,Fitness,1,448.11,Cash on Delivery,Delivered
+ORD-11234,CUST-1126,2026-05-20,Electronics,1,871.54,UPI,Delivered
+ORD-11235,CUST-1044,2026-09-15,Books,4,3275.5,Net Banking,Cancelled
+ORD-11236,CUST-1025,2026-09-26,Fitness,3,4525.41,Debit Card,Delivered
+ORD-11237,CUST-1145,2026-06-30,Apparel,2,3231.6,Debit Card,Returned
+ORD-11238,CUST-1013,2026-06-09,Electronics,1,929.92,Cash on Delivery,Delivered
+ORD-11239,CUST-1212,2026-10-15,Home & Kitchen,2,844.07,UPI,Returned
+ORD-11240,CUST-1025,2026-10-15,Electronics,2,4267.67,UPI,Delivered
+ORD-11241,CUST-1068,2026-08-14,Apparel,2,954.72,Net Banking,Cancelled
+ORD-11242,CUST-1138,2026-01-11,Fitness,1,2745.09,Debit Card,Cancelled
+ORD-11243,CUST-1067,2026-01-10,Apparel,2,474.43,UPI,Returned
+ORD-11244,CUST-1233,2026-09-28,Home & Kitchen,2,679.15,Cash on Delivery,Delivered
+ORD-11245,CUST-1109,2026-09-30,Books,4,3460.04,Debit Card,Delivered
+ORD-11246,CUST-1146,2026-07-02,Electronics,1,3539.15,Net Banking,Delivered
+ORD-11247,CUST-1111,2026-06-02,Fitness,2,1904.91,Cash on Delivery,Delivered
+ORD-11248,CUST-1228,2026-05-04,Books,2,1313.37,Credit Card,Delivered
+ORD-11249,CUST-1111,2026-04-24,Apparel,1,4124.44,Net Banking,Delivered
+ORD-11250,CUST-1214,2026-10-05,Fitness,1,1320.39,Cash on Delivery,Delivered
+ORD-11251,CUST-1034,2026-08-01,Books,1,2847.53,UPI,Delivered
+ORD-11252,CUST-1111,2026-06-21,Fitness,1,4850.58,Credit Card,Delivered
+ORD-11253,CUST-1008,2026-10-15,Home & Kitchen,1,994.91,Net Banking,Delivered
+ORD-11254,CUST-1168,2026-06-23,Home & Kitchen,2,4722.12,UPI,Delivered
+ORD-11255,CUST-1113,2026-04-23,Electronics,2,1159.6,Credit Card,Delivered
+ORD-11256,CUST-1236,2026-05-02,Electronics,2,2966.98,Debit Card,Delivered
+ORD-11257,CUST-1083,2026-02-01,Home & Kitchen,3,2071.94,UPI,Delivered
+ORD-11258,CUST-1042,2026-08-10,Fitness,1,4835.16,Cash on Delivery,Cancelled
+ORD-11259,CUST-1169,2026-04-29,Home & Kitchen,1,1585.65,Net Banking,Returned
+ORD-11260,CUST-1101,2026-02-08,Electronics,2,2178.39,Credit Card,Returned
+ORD-11261,CUST-1006,2026-09-25,Home & Kitchen,1,4919.44,UPI,Cancelled
+ORD-11262,CUST-1180,2026-08-21,Home & Kitchen,1,2821.41,Debit Card,Delivered
+ORD-11263,CUST-1026,2026-01-18,Fitness,1,2662.36,Net Banking,Delivered
+ORD-11264,CUST-1064,2026-05-29,Books,1,1511.56,Net Banking,Delivered
+ORD-11265,CUST-1226,2026-05-29,Electronics,3,3596.41,UPI,Delivered
+ORD-11266,CUST-1187,2026-05-06,Fitness,1,367.55,Debit Card,Delivered
+ORD-11267,CUST-1184,2026-10-29,Home & Kitchen,1,532.71,Credit Card,Delivered
+ORD-11268,CUST-1059,2026-08-26,Home & Kitchen,1,3116.99,UPI,Delivered
+ORD-11269,CUST-1109,2026-05-15,Books,2,1905.87,Credit Card,Delivered
+ORD-11270,CUST-1198,2026-05-31,Electronics,1,4780.59,Net Banking,Delivered
+ORD-11271,CUST-1229,2026-08-24,Electronics,2,4545.0,Credit Card,Delivered
+ORD-11272,CUST-1121,2026-08-12,Apparel,1,3654.42,Debit Card,Delivered
+ORD-11273,CUST-1033,2026-07-22,Electronics,1,4145.28,Cash on Delivery,Delivered
+ORD-11274,CUST-1181,2026-09-13,Books,2,3436.46,Debit Card,Delivered
+ORD-11275,CUST-1150,2026-03-27,Apparel,1,890.24,Credit Card,Delivered
+ORD-11276,CUST-1021,2026-05-30,Apparel,1,3898.05,UPI,Cancelled
+ORD-11277,CUST-1198,2026-08-23,Home & Kitchen,1,1287.9,Net Banking,Delivered
+ORD-11278,CUST-1070,2026-01-22,Home & Kitchen,3,1820.18,Cash on Delivery,Delivered
+ORD-11279,CUST-1247,2026-10-12,Electronics,1,4150.4,UPI,Delivered
+ORD-11280,CUST-1112,2026-09-26,Apparel,2,2821.67,UPI,Delivered
+ORD-11281,CUST-1004,2026-09-15,Home & Kitchen,1,4341.72,Debit Card,Delivered
+ORD-11282,CUST-1094,2026-01-29,Books,1,1301.27,Credit Card,Delivered
+ORD-11283,CUST-1075,2026-08-01,Home & Kitchen,1,3156.56,Debit Card,Delivered
+ORD-11284,CUST-1190,2026-10-10,Home & Kitchen,3,693.82,Credit Card,Cancelled
+ORD-11285,CUST-1062,2026-02-19,Apparel,1,3322.39,Debit Card,Cancelled
+ORD-11286,CUST-1094,2026-04-05,Apparel,1,3883.91,UPI,Delivered
+ORD-11287,CUST-1095,2026-03-29,Fitness,1,3049.18,Net Banking,Delivered
+ORD-11288,CUST-1152,2026-02-13,Books,1,1551.29,Credit Card,Delivered
+ORD-11289,CUST-1055,2026-10-05,Apparel,1,447.31,Cash on Delivery,Delivered
+ORD-11290,CUST-1137,2026-06-20,Electronics,2,861.41,Cash on Delivery,Delivered
+ORD-11291,CUST-1247,2026-07-08,Books,1,3224.82,UPI,Delivered
+ORD-11292,CUST-1131,2026-07-03,Books,1,4691.78,Debit Card,Delivered
+ORD-11293,CUST-1243,2026-01-03,Apparel,2,1270.71,Debit Card,Delivered
+ORD-11294,CUST-1031,2026-07-10,Books,1,3754.62,UPI,Delivered
+ORD-11295,CUST-1040,2026-04-28,Apparel,1,4372.32,Cash on Delivery,Delivered
+ORD-11296,CUST-1229,2026-01-19,Home & Kitchen,1,2748.15,Cash on Delivery,Delivered
+ORD-11297,CUST-1036,2026-01-23,Fitness,2,3445.55,Debit Card,Cancelled
+ORD-11298,CUST-1152,2026-01-30,Home & Kitchen,1,4130.57,Credit Card,Delivered
+ORD-11299,CUST-1223,2026-10-22,Apparel,1,1525.17,Net Banking,Delivered
+ORD-11300,CUST-1006,2026-04-18,Apparel,1,1695.41,Credit Card,Delivered
+ORD-11301,CUST-1066,2026-10-08,Home & Kitchen,2,302.95,Cash on Delivery,Delivered
+ORD-11302,CUST-1212,2026-05-08,Electronics,1,4826.54,Credit Card,Cancelled
+ORD-11303,CUST-1220,2026-08-17,Electronics,2,4612.46,Net Banking,Delivered
+ORD-11304,CUST-1075,2026-04-21,Electronics,3,3893.47,Credit Card,Delivered
+ORD-11305,CUST-1004,2026-05-16,Apparel,2,671.66,Credit Card,Delivered
+ORD-11306,CUST-1079,2026-07-05,Books,1,2403.26,Credit Card,Delivered
+ORD-11307,CUST-1134,2026-05-24,Apparel,1,778.89,Credit Card,Delivered
+ORD-11308,CUST-1118,2026-03-13,Books,1,374.83,UPI,Delivered
+ORD-11309,CUST-1113,2026-05-09,Home & Kitchen,1,3196.06,Cash on Delivery,Delivered
+ORD-11310,CUST-1094,2026-09-18,Fitness,1,4815.9,Net Banking,Delivered
+ORD-11311,CUST-1248,2026-01-03,Books,2,4543.48,Cash on Delivery,Delivered
+ORD-11312,CUST-1230,2026-04-14,Electronics,1,3574.75,UPI,Returned
+ORD-11313,CUST-1179,2026-08-12,Apparel,1,754.21,UPI,Delivered
+ORD-11314,CUST-1062,2026-01-10,Home & Kitchen,2,1588.57,UPI,Delivered
+ORD-11315,CUST-1185,2026-10-29,Electronics,2,1804.27,UPI,Delivered
+ORD-11316,CUST-1194,2026-08-19,Home & Kitchen,1,3886.81,Credit Card,Delivered
+ORD-11317,CUST-1079,2026-08-07,Fitness,3,4070.57,Cash on Delivery,Delivered
+ORD-11318,CUST-1203,2026-03-07,Apparel,1,2110.0,Debit Card,Delivered
+ORD-11319,CUST-1136,2026-04-22,Apparel,2,2264.05,Net Banking,Delivered
+ORD-11320,CUST-1026,2026-01-13,Fitness,2,509.19,UPI,Delivered
+ORD-11321,CUST-1179,2026-03-27,Apparel,2,1658.94,Cash on Delivery,Delivered
+ORD-11322,CUST-1173,2026-08-22,Books,2,2421.04,UPI,Delivered
+ORD-11323,CUST-1044,2026-03-31,Home & Kitchen,1,849.82,UPI,Delivered
+ORD-11324,CUST-1133,2026-02-23,Electronics,1,2430.36,UPI,Delivered
+ORD-11325,CUST-1070,2026-01-12,Fitness,2,4309.93,UPI,Delivered
+ORD-11326,CUST-1154,2026-07-28,Books,1,3032.21,UPI,Delivered
+ORD-11327,CUST-1118,2026-01-14,Electronics,3,670.97,Net Banking,Cancelled
+ORD-11328,CUST-1068,2026-05-01,Electronics,1,1200.86,Cash on Delivery,Delivered
+ORD-11329,CUST-1019,2026-01-20,Fitness,1,2530.36,UPI,Delivered
+ORD-11330,CUST-1212,2026-03-16,Books,1,1998.99,UPI,Delivered
+ORD-11331,CUST-1225,2026-08-31,Electronics,1,1986.02,UPI,Delivered
+ORD-11332,CUST-1020,2026-08-11,Electronics,2,2787.56,UPI,Delivered
+ORD-11333,CUST-1113,2026-03-11,Books,2,3046.66,Credit Card,Delivered
+ORD-11334,CUST-1140,2026-07-30,Apparel,2,4045.25,Credit Card,Delivered
+ORD-11335,CUST-1047,2026-04-11,Electronics,3,1902.54,Debit Card,Delivered
+ORD-11336,CUST-1001,2026-07-05,Home & Kitchen,3,4085.69,UPI,Delivered
+ORD-11337,CUST-1090,2026-05-12,Books,3,1891.47,Debit Card,Delivered
+ORD-11338,CUST-1142,2026-04-21,Electronics,1,560.54,Net Banking,Delivered
+ORD-11339,CUST-1064,2026-05-12,Fitness,2,2904.68,Debit Card,Delivered
+ORD-11340,CUST-1038,2026-01-20,Home & Kitchen,1,3063.14,Cash on Delivery,Delivered
+ORD-11341,CUST-1037,2026-01-24,Electronics,1,4692.34,Credit Card,Delivered
+ORD-11342,CUST-1126,2026-08-15,Home & Kitchen,2,3712.49,Credit Card,Delivered
+ORD-11343,CUST-1139,2026-06-03,Home & Kitchen,1,4613.53,UPI,Delivered
+ORD-11344,CUST-1100,2026-10-20,Apparel,1,4569.23,UPI,Delivered
+ORD-11345,CUST-1077,2026-08-18,Home & Kitchen,1,3141.5,Net Banking,Delivered
+ORD-11346,CUST-1235,2026-07-21,Apparel,1,2780.48,Net Banking,Delivered
+ORD-11347,CUST-1003,2026-02-07,Books,3,2919.97,Cash on Delivery,Delivered
+ORD-11348,CUST-1161,2026-09-17,Apparel,1,4898.15,UPI,Cancelled
+ORD-11349,CUST-1134,2026-07-07,Fitness,1,3933.89,UPI,Delivered
+ORD-11350,CUST-1178,2026-02-26,Electronics,1,799.45,Net Banking,Delivered
+ORD-11351,CUST-1248,2026-01-20,Books,1,3958.61,Net Banking,Delivered
+ORD-11352,CUST-1010,2026-09-30,Books,3,1101.53,Net Banking,Delivered
+ORD-11353,CUST-1005,2026-04-29,Fitness,1,2402.55,Credit Card,Delivered
+ORD-11354,CUST-1151,2026-03-12,Apparel,2,1289.16,Debit Card,Delivered
+ORD-11355,CUST-1138,2026-01-04,Electronics,2,3541.04,Debit Card,Delivered
+ORD-11356,CUST-1172,2026-08-09,Apparel,3,4423.36,UPI,Delivered
+ORD-11357,CUST-1130,2026-01-14,Home & Kitchen,2,1664.7,Credit Card,Delivered
+ORD-11358,CUST-1013,2026-01-03,Apparel,3,685.45,Net Banking,Delivered
+ORD-11359,CUST-1168,2026-08-04,Books,1,1702.92,UPI,Delivered
+ORD-11360,CUST-1130,2026-08-17,Electronics,1,3460.1,Credit Card,Delivered
+ORD-11361,CUST-1084,2026-07-05,Apparel,1,1845.17,Cash on Delivery,Delivered
+ORD-11362,CUST-1065,2026-02-24,Electronics,3,1607.13,Credit Card,Delivered
+ORD-11363,CUST-1063,2026-09-11,Electronics,1,1166.85,UPI,Delivered
+ORD-11364,CUST-1101,2026-01-24,Home & Kitchen,1,2638.33,Debit Card,Delivered
+ORD-11365,CUST-1073,2026-06-11,Home & Kitchen,1,1596.96,Net Banking,Delivered
+ORD-11366,CUST-1017,2026-06-07,Books,1,3735.75,Cash on Delivery,Delivered
+ORD-11367,CUST-1009,2026-03-23,Fitness,1,660.13,Credit Card,Delivered
+ORD-11368,CUST-1203,2026-06-08,Electronics,4,3420.96,UPI,Delivered
+ORD-11369,CUST-1143,2026-07-07,Fitness,1,1416.53,UPI,Returned
+ORD-11370,CUST-1152,2026-03-01,Books,2,2599.61,Net Banking,Delivered
+ORD-11371,CUST-1038,2026-07-30,Electronics,2,1644.62,UPI,Delivered
+ORD-11372,CUST-1247,2026-06-01,Electronics,1,3697.01,UPI,Delivered
+ORD-11373,CUST-1163,2026-04-19,Fitness,1,4742.94,Net Banking,Delivered
+ORD-11374,CUST-1094,2026-03-17,Apparel,1,4610.26,Cash on Delivery,Delivered
+ORD-11375,CUST-1095,2026-01-30,Home & Kitchen,1,3042.1,Debit Card,Delivered
+ORD-11376,CUST-1049,2026-04-27,Apparel,2,2474.27,Debit Card,Delivered
+ORD-11377,CUST-1069,2026-07-11,Fitness,1,4146.01,Credit Card,Delivered
+ORD-11378,CUST-1062,2026-01-19,Home & Kitchen,1,3511.63,Cash on Delivery,Delivered
+ORD-11379,CUST-1188,2026-06-22,Apparel,2,1162.75,Credit Card,Delivered
+ORD-11380,CUST-1236,2026-08-16,Home & Kitchen,3,4158.32,Debit Card,Delivered
+ORD-11381,CUST-1178,2026-07-02,Electronics,3,2315.76,Net Banking,Delivered
+ORD-11382,CUST-1078,2026-04-23,Apparel,3,1188.23,UPI,Delivered
+ORD-11383,CUST-1117,2026-07-02,Home & Kitchen,2,1624.45,Debit Card,Delivered
+ORD-11384,CUST-1120,2026-05-26,Home & Kitchen,1,1557.38,Cash on Delivery,Delivered
+ORD-11385,CUST-1203,2026-04-26,Home & Kitchen,2,2740.27,Debit Card,Delivered
+ORD-11386,CUST-1137,2026-04-23,Apparel,1,1401.54,Cash on Delivery,Delivered
+ORD-11387,CUST-1162,2026-09-08,Books,2,880.76,Cash on Delivery,Delivered
+ORD-11388,CUST-1076,2026-09-08,Apparel,2,881.35,Cash on Delivery,Delivered
+ORD-11389,CUST-1227,2026-10-30,Fitness,1,3041.4,Credit Card,Delivered
+ORD-11390,CUST-1035,2026-04-28,Apparel,2,3753.37,Net Banking,Delivered
+ORD-11391,CUST-1001,2026-10-28,Home & Kitchen,3,1811.21,Debit Card,Delivered
+ORD-11392,CUST-1040,2026-06-10,Electronics,1,462.86,Net Banking,Delivered
+ORD-11393,CUST-1064,2026-07-17,Apparel,3,897.96,UPI,Delivered
+ORD-11394,CUST-1150,2026-09-17,Apparel,1,4599.06,Debit Card,Delivered
+ORD-11395,CUST-1060,2026-05-28,Home & Kitchen,2,2619.66,Net Banking,Delivered
+ORD-11396,CUST-1064,2026-08-28,Electronics,1,2431.79,Net Banking,Delivered
+ORD-11397,CUST-1093,2026-02-16,Electronics,2,478.83,UPI,Delivered
+ORD-11398,CUST-1072,2026-07-17,Fitness,3,3724.59,Cash on Delivery,Delivered
+ORD-11399,CUST-1011,2026-02-16,Apparel,3,2781.92,Debit Card,Delivered
+ORD-11400,CUST-1105,2026-03-19,Electronics,2,1249.78,Debit Card,Delivered
+ORD-11401,CUST-1229,2026-05-04,Electronics,1,817.35,UPI,Returned
+ORD-11402,CUST-1014,2026-03-16,Books,3,2101.92,Cash on Delivery,Delivered
+ORD-11403,CUST-1060,2026-05-17,Books,1,4234.66,Debit Card,Delivered
+ORD-11404,CUST-1030,2026-03-31,Electronics,3,4366.88,Debit Card,Delivered
+ORD-11405,CUST-1035,2026-03-02,Fitness,1,3133.38,Debit Card,Delivered
+ORD-11406,CUST-1213,2026-05-18,Electronics,1,3719.42,Cash on Delivery,Delivered
+ORD-11407,CUST-1165,2026-02-19,Home & Kitchen,2,841.23,UPI,Delivered
+ORD-11408,CUST-1005,2026-09-16,Apparel,1,3064.19,Debit Card,Delivered
+ORD-11409,CUST-1083,2026-04-17,Fitness,1,3434.74,Net Banking,Delivered
+ORD-11410,CUST-1123,2026-04-23,Home & Kitchen,1,1243.35,Cash on Delivery,Delivered
+ORD-11411,CUST-1078,2026-09-11,Fitness,1,4436.73,Credit Card,Delivered
+ORD-11412,CUST-1154,2026-04-28,Home & Kitchen,1,1216.48,UPI,Delivered
+ORD-11413,CUST-1062,2026-07-17,Apparel,1,1773.34,Net Banking,Delivered
+ORD-11414,CUST-1132,2026-02-20,Apparel,1,3216.62,Debit Card,Delivered
+ORD-11415,CUST-1089,2026-09-02,Books,1,3300.25,Credit Card,Delivered
+ORD-11416,CUST-1237,2026-02-04,Home & Kitchen,2,3587.11,UPI,Delivered
+ORD-11417,CUST-1042,2026-10-29,Books,1,826.46,Cash on Delivery,Delivered
+ORD-11418,CUST-1089,2026-03-10,Home & Kitchen,3,4292.48,Credit Card,Delivered
+ORD-11419,CUST-1146,2026-02-18,Books,3,2804.38,Credit Card,Delivered
+ORD-11420,CUST-1040,2026-03-15,Apparel,1,2515.21,Net Banking,Delivered
+ORD-11421,CUST-1072,2026-07-11,Fitness,2,4911.16,UPI,Delivered
+ORD-11422,CUST-1039,2026-09-18,Books,3,3779.78,Net Banking,Delivered
+ORD-11423,CUST-1104,2026-03-11,Home & Kitchen,4,854.63,Net Banking,Delivered
+ORD-11424,CUST-1014,2026-03-31,Home & Kitchen,2,3855.73,Debit Card,Delivered
+ORD-11425,CUST-1032,2026-09-17,Apparel,1,747.67,Cash on Delivery,Delivered
+ORD-11426,CUST-1179,2026-05-06,Home & Kitchen,2,429.11,Credit Card,Returned
+ORD-11427,CUST-1125,2026-08-19,Electronics,2,2197.04,UPI,Delivered
+ORD-11428,CUST-1166,2026-10-22,Fitness,2,4969.82,Cash on Delivery,Delivered
+ORD-11429,CUST-1097,2026-05-09,Books,1,1121.95,Cash on Delivery,Delivered
+ORD-11430,CUST-1023,2026-10-07,Fitness,3,3461.43,UPI,Delivered
+ORD-11431,CUST-1063,2026-04-10,Apparel,4,1114.96,Cash on Delivery,Delivered
+ORD-11432,CUST-1143,2026-10-24,Books,1,3706.5,Debit Card,Cancelled
+ORD-11433,CUST-1225,2026-07-01,Books,1,2675.16,Cash on Delivery,Delivered
+ORD-11434,CUST-1153,2026-06-23,Electronics,1,3495.87,Debit Card,Returned
+ORD-11435,CUST-1145,2026-07-07,Apparel,3,1253.5,Credit Card,Delivered
+ORD-11436,CUST-1225,2026-02-26,Home & Kitchen,2,3804.45,Credit Card,Delivered
+ORD-11437,CUST-1239,2026-01-31,Electronics,2,4979.41,Net Banking,Delivered
+ORD-11438,CUST-1247,2026-03-25,Electronics,1,3428.56,Debit Card,Delivered
+ORD-11439,CUST-1194,2026-06-01,Fitness,2,2619.36,Credit Card,Delivered
+ORD-11440,CUST-1206,2026-02-05,Fitness,1,4638.92,Cash on Delivery,Delivered
+ORD-11441,CUST-1053,2026-08-01,Fitness,1,374.5,UPI,Delivered
+ORD-11442,CUST-1104,2026-04-16,Electronics,2,3730.64,UPI,Delivered
+ORD-11443,CUST-1104,2026-08-08,Home & Kitchen,4,4477.11,Debit Card,Delivered
+ORD-11444,CUST-1179,2026-06-12,Books,3,589.87,Net Banking,Delivered
+ORD-11445,CUST-1039,2026-08-08,Fitness,3,2415.3,Cash on Delivery,Delivered
+ORD-11446,CUST-1179,2026-09-27,Home & Kitchen,1,1262.18,Debit Card,Delivered
+ORD-11447,CUST-1198,2026-04-30,Apparel,1,2962.64,UPI,Delivered
+ORD-11448,CUST-1134,2026-07-01,Fitness,2,3352.85,Debit Card,Delivered
+ORD-11449,CUST-1067,2026-04-16,Books,3,1722.33,Cash on Delivery,Delivered
+ORD-11450,CUST-1135,2026-08-05,Apparel,1,2461.91,Credit Card,Delivered
+ORD-11451,CUST-1179,2026-07-24,Apparel,1,1612.9,Cash on Delivery,Delivered
+ORD-11452,CUST-1200,2026-03-11,Books,1,2036.14,Credit Card,Cancelled
+ORD-11453,CUST-1042,2026-02-13,Fitness,2,1049.84,Credit Card,Delivered
+ORD-11454,CUST-1192,2026-10-28,Electronics,1,4462.13,Credit Card,Delivered
+ORD-11455,CUST-1244,2026-08-16,Books,1,347.05,Debit Card,Delivered
+ORD-11456,CUST-1015,2026-07-03,Books,1,4447.32,UPI,Cancelled
+ORD-11457,CUST-1111,2026-04-17,Books,1,2986.89,Debit Card,Delivered
+ORD-11458,CUST-1157,2026-03-25,Apparel,3,1858.79,UPI,Delivered
+ORD-11459,CUST-1033,2026-09-07,Home & Kitchen,1,3698.37,Cash on Delivery,Cancelled
+ORD-11460,CUST-1244,2026-01-21,Electronics,2,2686.44,Net Banking,Cancelled
+ORD-11461,CUST-1222,2026-07-15,Fitness,2,2645.81,Cash on Delivery,Cancelled
+ORD-11462,CUST-1231,2026-06-27,Fitness,3,817.67,Debit Card,Delivered
+ORD-11463,CUST-1155,2026-01-07,Home & Kitchen,1,2130.73,Debit Card,Delivered
+ORD-11464,CUST-1164,2026-03-11,Books,4,1433.0,UPI,Delivered
+ORD-11465,CUST-1157,2026-05-07,Electronics,2,373.77,Debit Card,Delivered
+ORD-11466,CUST-1038,2026-06-09,Fitness,4,1992.47,Credit Card,Delivered
+ORD-11467,CUST-1185,2026-09-05,Fitness,3,722.16,Debit Card,Delivered
+ORD-11468,CUST-1097,2026-07-22,Books,1,1507.1,UPI,Delivered
+ORD-11469,CUST-1229,2026-05-28,Home & Kitchen,1,734.83,UPI,Delivered
+ORD-11470,CUST-1155,2026-05-23,Electronics,1,774.43,Credit Card,Delivered
+ORD-11471,CUST-1183,2026-07-18,Home & Kitchen,2,1235.35,UPI,Delivered
+ORD-11472,CUST-1033,2026-06-03,Home & Kitchen,1,4999.29,Net Banking,Delivered
+ORD-11473,CUST-1196,2026-05-22,Electronics,1,310.27,Cash on Delivery,Delivered
+ORD-11474,CUST-1086,2026-06-14,Electronics,1,3301.76,Debit Card,Delivered
+ORD-11475,CUST-1066,2026-01-21,Fitness,1,963.85,Net Banking,Delivered
+ORD-11476,CUST-1010,2026-03-23,Fitness,1,4626.95,Debit Card,Cancelled
+ORD-11477,CUST-1005,2026-03-10,Electronics,1,740.07,Net Banking,Delivered
+ORD-11478,CUST-1123,2026-05-11,Apparel,1,4788.8,Debit Card,Delivered
+ORD-11479,CUST-1074,2026-03-28,Fitness,1,3171.35,Credit Card,Delivered
+ORD-11480,CUST-1097,2026-08-06,Apparel,1,305.96,UPI,Delivered
+ORD-11481,CUST-1118,2026-06-10,Electronics,1,4501.83,UPI,Delivered
+ORD-11482,CUST-1038,2026-06-27,Fitness,3,2752.05,Credit Card,Delivered
+ORD-11483,CUST-1141,2026-04-27,Home & Kitchen,2,1534.55,Net Banking,Delivered
+ORD-11484,CUST-1159,2026-07-15,Electronics,1,3906.21,Cash on Delivery,Cancelled
+ORD-11485,CUST-1047,2026-03-27,Books,1,4655.33,Net Banking,Delivered
+ORD-11486,CUST-1228,2026-10-16,Apparel,3,2573.35,UPI,Delivered
+ORD-11487,CUST-1109,2026-03-22,Electronics,3,1783.1,Cash on Delivery,Delivered
+ORD-11488,CUST-1216,2026-06-01,Electronics,3,4008.04,Debit Card,Delivered
+ORD-11489,CUST-1180,2026-03-02,Fitness,2,3504.39,Cash on Delivery,Delivered
+ORD-11490,CUST-1184,2026-03-02,Fitness,1,4477.14,Net Banking,Delivered
+ORD-11491,CUST-1015,2026-01-28,Fitness,1,3554.82,Credit Card,Delivered
+ORD-11492,CUST-1157,2026-02-12,Books,1,1444.58,Debit Card,Delivered
+ORD-11493,CUST-1136,2026-06-18,Fitness,3,4678.8,Net Banking,Delivered
+ORD-11494,CUST-1005,2026-03-27,Electronics,2,792.73,Debit Card,Delivered
+ORD-11495,CUST-1157,2026-06-26,Fitness,2,1559.33,Cash on Delivery,Returned
+ORD-11496,CUST-1047,2026-01-17,Home & Kitchen,1,2744.91,UPI,Delivered
+ORD-11497,CUST-1068,2026-04-08,Fitness,3,2958.99,Net Banking,Delivered
+ORD-11498,CUST-1076,2026-07-17,Books,1,371.96,Credit Card,Delivered
+ORD-11499,CUST-1173,2026-04-08,Home & Kitchen,1,3968.69,Cash on Delivery,Cancelled
